@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "js": "^0.1.0",
+    "node": "^20.7.0",
+    "requirejs": "^2.3.6",
+    "serpapi": "^2.0.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}

@@ -1,0 +1,89 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+  --color-primary: #a8d4b8;
+  --color-secondary: #576c68;
+  /* var(color-primary) */
+}
+* {
+  background-color: rgb(255, 254, 254);
+  color: #576c68;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  transition: 0.3s all;
+}
+
+.nav {
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: rgb(0, 0, 0);
+}
+.navDiv {
+  margin: auto;
+  gap: 40vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navDiv input {
+  width: 350px;
+  border: 1px solid var(--color-secondary);
+  border-start-start-radius: 13px;
+  border-end-start-radius: 13px;
+  margin: 0px;
+  text-align: center;
+}
+.navDiv button {
+  margin: -5px;
+  background-color: #576c68;
+  color: white;
+  padding: 0px 10px 0px 10px;
+  border-end-end-radius: 13px;
+  border-start-end-radius: 13px;
+  border: 1px solid var(--color-secondary);
+}
+nav a:hover {
+  color: rgb(34, 188, 137);
+}
+.btn-usuario{
+  padding: .5rem;
+  border-width: 1px;
+  border-radius: 0.375rem
+}
+.btn-usuario:hover{
+  background-color: #576c68;
+  color: white;
+}
+.logo {
+  width: 250px;
+  height: 65px;
+  object-fit: contain;
+}
+.shop {
+  width: 500px;
+  height: 500px;
+}
+
+.about {
+  /* background-color: #6439ff; */
+  height: calc(100vh - 80px);
+  padding-top: 20vh;
+  display: flex;
+  justify-content: space-around;
+}
+.about-h1 {
+  color: var(--color-primary);
+  font-weight: 600;
+}
+.about-h2 {
+  font-weight: 500;
+  color: var(--color-secondary);
+  text-decoration: 2px underline;
+}
+.about-p {
+  width: 500px;
+}
+

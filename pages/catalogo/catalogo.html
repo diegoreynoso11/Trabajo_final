@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="catalogo.css">
+    <script type="module" src="./catalogo.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <title>Catalogo</title>
+</head>
+<body>
+    <header>
+        <nav class="nav sticky shadow-md">
+          <a href="/index.html">
+            <img class="logo" src="/statics/logo/AMARANTO.png" alt="Amaranto Logo" />
+          </a>
+          <div class="navDiv">
+            <form action="">
+                <input type="text" placeholder="Palluzzi,Nueces,Azucar organica...">
+                <button type="submit">Buscar</button>
+            </form>
+            <a href="/pages/carrito/carrito.html">Carrito</a>
+            <div >
+                <a class="btn-usuario" href="">Crear cuenta</a>
+                <a class="btn-usuario" href="#usuario">Ingresar</a>
+            </div>
+          </div>
+        </nav>
+      </header>
+    <main>
+        <section>
+            <h1 class="h1-productos-catalogo">Nuestos productos recomendados!</h1>
+            <ul id="catalogo" class="ul-catalogo"></ul>
+            
+        </section>
+    </main>
+</body>
+</html>

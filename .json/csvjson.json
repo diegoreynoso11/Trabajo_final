@@ -1,0 +1,5414 @@
+[
+  {
+    "name": "NUTRASEM TAHINA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.720,00"
+  },
+  {
+    "name": "CERVEZA GAUTHER",
+    "isEnabled": 1,
+    "description": "",
+    "price": "576,00"
+  },
+  {
+    "name": "PALLUZZI PEPAS FRUTOS ROJOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "444,00"
+  },
+  {
+    "name": "NINA CHOCOLATE BLISS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "203,40"
+  },
+  {
+    "name": "ENTRE NUTS ACEITE DE COCO NEUTRO 360CC",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.172,00"
+  },
+  {
+    "name": "ENTRE NUTS GHEE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.628,00"
+  },
+  {
+    "name": "CRUDENCIO RAWMESAN",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.140,00"
+  },
+  {
+    "name": "PALLUZZI PREPIZZA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "598,80"
+  },
+  {
+    "name": "PALLUZZI PEPAS DULCE DE LECHE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "444,00"
+  },
+  {
+    "name": "PEANNAT PASTA DE MANI",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.404,00"
+  },
+  {
+    "name": "PEANNAT WHEY PROTEIN",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.788,00"
+  },
+  {
+    "name": "YOGURADE FIRME",
+    "isEnabled": 1,
+    "description": "",
+    "price": "408,00"
+  },
+  {
+    "name": "YOGURADE FIRME FRUTOS DEL BOSQUE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "264,00"
+  },
+  {
+    "name": "PALLUZZI CRACKERS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "478,80"
+  },
+  {
+    "name": "PALLUZZI MASAS SECAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "732,00"
+  },
+  {
+    "name": "FELICES LAS VACAS MIX HEBRAS 200GRS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.584,00"
+  },
+  {
+    "name": "HARINA INTEGRAL GRUESA 500",
+    "isEnabled": 1,
+    "description": "",
+    "price": "66,40"
+  },
+  {
+    "name": "FELICES LAS VACAS ALFAJORES",
+    "isEnabled": 1,
+    "description": "",
+    "price": "900,00"
+  },
+  {
+    "name": "COPANI CHOCOLATIN",
+    "isEnabled": 1,
+    "description": "",
+    "price": "84,00"
+  },
+  {
+    "name": "CAMINITO ENCAJE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.048,00"
+  },
+  {
+    "name": "CAMINITO SIMPLE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.520,00"
+  },
+  {
+    "name": "HARINA INTEGRAL AGROECOLOGICA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "257,60"
+  },
+  {
+    "name": "VELA CERA MORRONERO 200",
+    "isEnabled": 1,
+    "description": "",
+    "price": "858,00"
+  },
+  {
+    "name": "VELA CERA VASO 100",
+    "isEnabled": 1,
+    "description": "",
+    "price": "920,40"
+  },
+  {
+    "name": "MIEL COLMENA DE ABEJA 250",
+    "isEnabled": 1,
+    "description": "",
+    "price": "300,00"
+  },
+  {
+    "name": "VELA CERA ANCHORERO 100",
+    "isEnabled": 1,
+    "description": "",
+    "price": "624,00"
+  },
+  {
+    "name": "HARINA DE COCA PRODENZA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "504,00"
+  },
+  {
+    "name": "MIEL COLMENA DE ABEJA 500",
+    "isEnabled": 1,
+    "description": "",
+    "price": "864,00"
+  },
+  {
+    "name": "CELIENERGY",
+    "isEnabled": 1,
+    "description": "",
+    "price": "480,00"
+  },
+  {
+    "name": "REINA VEGANA(TODOS)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "444,00"
+  },
+  {
+    "name": "INTEGRA BOCADITOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "252,00"
+  },
+  {
+    "name": "TE HIERBAS DEL OASIS PASIONARIA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "714,00"
+  },
+  {
+    "name": "TE HIERBAS DEL OASIS MORINGA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.008,00"
+  },
+  {
+    "name": "VINAGRE DE MANZANA ORGANICO SACHA WARMI",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.072,00"
+  },
+  {
+    "name": "TEMPEH DE SOJA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "718,80"
+  },
+  {
+    "name": "ARGENDIET MARUCHAN",
+    "isEnabled": 1,
+    "description": "",
+    "price": "381,60"
+  },
+  {
+    "name": "KEFIR",
+    "isEnabled": 1,
+    "description": "",
+    "price": "541,00"
+  },
+  {
+    "name": "HARINA INTEGRAL GRUESA X1KG",
+    "isEnabled": 1,
+    "description": "",
+    "price": "128,80"
+  },
+  {
+    "name": "BIFES Y MILA DE SEITAN",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.364,00"
+  },
+  {
+    "name": "VITABIOSA PROBIOTICOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.024,00"
+  },
+  {
+    "name": "FELICES LAS VACAS CREMOSO POR KG",
+    "isEnabled": 1,
+    "description": "",
+    "price": "4.968,00"
+  },
+  {
+    "name": "HARINA INTEGRAL 500 GRS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "94,90"
+  },
+  {
+    "name": "CRUDENCIO CRACKERS PUERRO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "433,90"
+  },
+  {
+    "name": "CRUDENCIO CRACKERS TOMATE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "433,90"
+  },
+  {
+    "name": "GRUN PEPAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.272,00"
+  },
+  {
+    "name": "KYOJIN PROBIOTICO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "4.476,00"
+  },
+  {
+    "name": "RISKY-DIT",
+    "isEnabled": 1,
+    "description": "",
+    "price": "149,20"
+  },
+  {
+    "name": "PALLUZZI PAN DE MOLDE CON SEMILLAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "852,00"
+  },
+  {
+    "name": "PALLUZZI PAN RALLADO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "636,00"
+  },
+  {
+    "name": "PALLUZZI PAN DE HAMBURGUESA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "792,00"
+  },
+  {
+    "name": "YOGURADE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "480,00"
+  },
+  {
+    "name": "PALLUZZI MEDIALUNAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "684,00"
+  },
+  {
+    "name": "PALLUZZI PAN DE MOLDE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "792,00"
+  },
+  {
+    "name": "PALLUZZI BAGUETTE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "528,00"
+  },
+  {
+    "name": "PALLUZZI SCONS CON CHIPS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "311,90"
+  },
+  {
+    "name": "PALLUZZI SCONS CON PASAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "311,90"
+  },
+  {
+    "name": "PALLUZZI MERENGUITOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "478,80"
+  },
+  {
+    "name": "PALLUZZI VAINILLAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "478,80"
+  },
+  {
+    "name": "PALLUZZI ALFAJORCITOS DE MAICENA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "478,80"
+  },
+  {
+    "name": "PALLUZZI PALMERITAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "478,80"
+  },
+  {
+    "name": "INTEGRA BARRITAS BASE CHOCOLATE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "408,00"
+  },
+  {
+    "name": "BLUE PATNA DEDALITOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.896,00"
+  },
+  {
+    "name": "BLUE PATNA TIRABUZON",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.896,00"
+  },
+  {
+    "name": "BLUE PATNA CODITOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.896,00"
+  },
+  {
+    "name": "ARCOR PIZZA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "264,40"
+  },
+  {
+    "name": "CRIOLLITAS ARROZ",
+    "isEnabled": 1,
+    "description": "",
+    "price": "149,20"
+  },
+  {
+    "name": "MATARAZZO MOSTACHOL",
+    "isEnabled": 1,
+    "description": "",
+    "price": "984,00"
+  },
+  {
+    "name": "MATARAZZO SPAGHETTI",
+    "isEnabled": 1,
+    "description": "",
+    "price": "984,00"
+  },
+  {
+    "name": "EXQUISITA CHOCOLATE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.104,00"
+  },
+  {
+    "name": "ARROZ GALLO ORO 500",
+    "isEnabled": 1,
+    "description": "",
+    "price": "149,20"
+  },
+  {
+    "name": "GALLO ARROZ PREP. SABOR MIX VEGETALES",
+    "isEnabled": 1,
+    "description": "",
+    "price": "433,90"
+  },
+  {
+    "name": "GALLO ARROZ PREP. SABOR QUESO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "433,90"
+  },
+  {
+    "name": "GALLO ARROZ PREP. SABOR VERDEO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "433,90"
+  },
+  {
+    "name": "VANOLI ACEITUNAS VERDES",
+    "isEnabled": 1,
+    "description": "",
+    "price": "284,80"
+  },
+  {
+    "name": "VANOLI LUPINES",
+    "isEnabled": 1,
+    "description": "",
+    "price": "203,40"
+  },
+  {
+    "name": "VANOLI PICKLES MIXTOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "237,30"
+  },
+  {
+    "name": "VANOLI ACEITUNAS RELLENAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "405,40"
+  },
+  {
+    "name": "VANOLI ACEITUNAS NEGRAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "405,40"
+  },
+  {
+    "name": "SALSA DE SOJA VANOLI",
+    "isEnabled": 1,
+    "description": "",
+    "price": "183,10"
+  },
+  {
+    "name": "VANOLI CHIMICHURRI CLASICO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "244,10"
+  },
+  {
+    "name": "VANOLI CHIMICHURRI PICANTE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "244,10"
+  },
+  {
+    "name": "VANOLI PIMIENTO MORRON",
+    "isEnabled": 1,
+    "description": "",
+    "price": "237,30"
+  },
+  {
+    "name": "VANOLI KETCHUP",
+    "isEnabled": 1,
+    "description": "",
+    "price": "244,10"
+  },
+  {
+    "name": "VANOLI SALSA FILETO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "176,30"
+  },
+  {
+    "name": "VANOLI POMAROLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "176,30"
+  },
+  {
+    "name": "VANOLI SALSA PIZZA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "176,30"
+  },
+  {
+    "name": "VANOLI SALSA PORTUGUESA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "176,30"
+  },
+  {
+    "name": "VANOLI NAPOLITANA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "176,30"
+  },
+  {
+    "name": "VANOLI AJI SUAVE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "325,40"
+  },
+  {
+    "name": "VANOLI AJI PICANTE X350",
+    "isEnabled": 1,
+    "description": "",
+    "price": "339,00"
+  },
+  {
+    "name": "VANOLI JUGO DE LIMON",
+    "isEnabled": 1,
+    "description": "",
+    "price": "244,10"
+  },
+  {
+    "name": "LA SALTE�A PASCUALINA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.260,00"
+  },
+  {
+    "name": "COPANI 70%",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.068,00"
+  },
+  {
+    "name": "COPANI 80%",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.104,00"
+  },
+  {
+    "name": "QUINOA POP ALGARROBA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "108,50"
+  },
+  {
+    "name": "ARROZ YAMANI POP",
+    "isEnabled": 1,
+    "description": "",
+    "price": "108,50"
+  },
+  {
+    "name": "AMARANTO POP",
+    "isEnabled": 1,
+    "description": "",
+    "price": "155,90"
+  },
+  {
+    "name": "QUINOA POP",
+    "isEnabled": 1,
+    "description": "",
+    "price": "240,00"
+  },
+  {
+    "name": "SEMILLAS POP",
+    "isEnabled": 1,
+    "description": "",
+    "price": "94,90"
+  },
+  {
+    "name": "YING YANG TRIGO SARRACENO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "257,60"
+  },
+  {
+    "name": "TOSTADAS QUINOA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "300,00"
+  },
+  {
+    "name": "TOSTADAS CHIA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "300,00"
+  },
+  {
+    "name": "SAL DEL HIMALAYA YING YANG",
+    "isEnabled": 1,
+    "description": "",
+    "price": "396,00"
+  },
+  {
+    "name": "CHOCO AGUILA 60%",
+    "isEnabled": 1,
+    "description": "",
+    "price": "648,20"
+  },
+  {
+    "name": "CHOCO AGUILA 70%",
+    "isEnabled": 1,
+    "description": "",
+    "price": "705,10"
+  },
+  {
+    "name": "BATATA ARCOR X 500G",
+    "isEnabled": 1,
+    "description": "",
+    "price": "149,20"
+  },
+  {
+    "name": "MEMBRILLO ARCOR",
+    "isEnabled": 1,
+    "description": "",
+    "price": "169,50"
+  },
+  {
+    "name": "TITAN LEVADURA EN COPOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.852,00"
+  },
+  {
+    "name": "SALSA DE SOJA SAKANASHI ROJA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "298,30"
+  },
+  {
+    "name": "GELATINA DURAZNO EMETH",
+    "isEnabled": 1,
+    "description": "",
+    "price": "122,00"
+  },
+  {
+    "name": "EMETH FLAN DDL",
+    "isEnabled": 1,
+    "description": "",
+    "price": "122,00"
+  },
+  {
+    "name": "GELATINA ANANA EMETH",
+    "isEnabled": 1,
+    "description": "",
+    "price": "122,00"
+  },
+  {
+    "name": "ORALI TAPAS PASCUALINA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.392,00"
+  },
+  {
+    "name": "ORALI TAPAS EMPANADAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.272,00"
+  },
+  {
+    "name": "ORALI DISCOS TACOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "576,00"
+  },
+  {
+    "name": "MAIXANAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "552,00"
+  },
+  {
+    "name": "MAYO V REMOLACHA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "528,80"
+  },
+  {
+    "name": "MAYO V CON AJO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "528,80"
+  },
+  {
+    "name": "MAYO V ORIGINAL",
+    "isEnabled": 1,
+    "description": "",
+    "price": "528,80"
+  },
+  {
+    "name": "VIVE VEG HUEVO SALADO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "432,00"
+  },
+  {
+    "name": "VIVE VEG HUEVO DULCE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "372,00"
+  },
+  {
+    "name": "MIEL MELIPOP 250ML",
+    "isEnabled": 1,
+    "description": "",
+    "price": "336,00"
+  },
+  {
+    "name": "SAN DIEGO BIZC. VAINILLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "217,00"
+  },
+  {
+    "name": "SAN DIEGO BIZCOCHUELO CHOCO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "253,60"
+  },
+  {
+    "name": "SAN DIEGO BROWNIE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "253,60"
+  },
+  {
+    "name": "COOCON 1 LT",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.104,00"
+  },
+  {
+    "name": "CHEZ MOMO VIDRIO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "718,80"
+  },
+  {
+    "name": "REBOZADOR ALL RICE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "576,00"
+  },
+  {
+    "name": "DICOMERE LECHE DE COCO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.988,00"
+  },
+  {
+    "name": "DICOMERE AZUCAR ORGANICA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.724,00"
+  },
+  {
+    "name": "DICOMERE ALBUMINA DE HUEVO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "5.436,00"
+  },
+  {
+    "name": "JULICROC PAPAS 70",
+    "isEnabled": 1,
+    "description": "",
+    "price": "149,20"
+  },
+  {
+    "name": "JULICROC PAPAS 250",
+    "isEnabled": 1,
+    "description": "",
+    "price": "379,70"
+  },
+  {
+    "name": "JULICROC CHIZITOS 65",
+    "isEnabled": 1,
+    "description": "",
+    "price": "155,90"
+  },
+  {
+    "name": "JULICROC CHIZITOS 180",
+    "isEnabled": 1,
+    "description": "",
+    "price": "339,00"
+  },
+  {
+    "name": "JULICROC PAPAS 160",
+    "isEnabled": 1,
+    "description": "",
+    "price": "352,60"
+  },
+  {
+    "name": "TERAMO PENNE RIGATE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "433,90"
+  },
+  {
+    "name": "TERAMO MUNICIONES",
+    "isEnabled": 1,
+    "description": "",
+    "price": "433,90"
+  },
+  {
+    "name": "TERAMO SOPA FAMILIAR",
+    "isEnabled": 1,
+    "description": "",
+    "price": "501,70"
+  },
+  {
+    "name": "LASAGNA TERAMO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "393,20"
+  },
+  {
+    "name": "SAL SIN SODIO NATURAL 140",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.752,00"
+  },
+  {
+    "name": "CUARTO CRECIENTE MERMELADA FRUTOS ROJOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.608,00"
+  },
+  {
+    "name": "CERAL BUDIN ARANDANOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "488,20"
+  },
+  {
+    "name": "CERAL BUDIN MARMOLADO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "461,00"
+  },
+  {
+    "name": "CERAL FIDEOS INTEGRALES ESPINACA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "768,00"
+  },
+  {
+    "name": "CERAL FIDEOS INTEGRALES MORRON",
+    "isEnabled": 1,
+    "description": "",
+    "price": "768,00"
+  },
+  {
+    "name": "CERAL FIDEOS INTEGRALES NATURALES",
+    "isEnabled": 1,
+    "description": "",
+    "price": "768,00"
+  },
+  {
+    "name": "CERAL GALLETITAS COCO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "576,00"
+  },
+  {
+    "name": "CERAL GALLETITAS LIMON",
+    "isEnabled": 1,
+    "description": "",
+    "price": "576,00"
+  },
+  {
+    "name": "CERAL GALLETITAS NARANJA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "576,00"
+  },
+  {
+    "name": "CHOCOLATE HUNGARO CON LECHE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "372,00"
+  },
+  {
+    "name": "CHOCOLATE HUNGARO SEMIAMARGO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "372,00"
+  },
+  {
+    "name": "YUCA CANESTRI",
+    "isEnabled": 1,
+    "description": "",
+    "price": "311,90"
+  },
+  {
+    "name": "YUCA MOSTACHOLES",
+    "isEnabled": 1,
+    "description": "",
+    "price": "311,90"
+  },
+  {
+    "name": "KAPAC PREMEZ. PAN",
+    "isEnabled": 1,
+    "description": "",
+    "price": "366,10"
+  },
+  {
+    "name": "KAPAC PREMEZ. PIZZA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "366,10"
+  },
+  {
+    "name": "KAPAC MASA P/ TARTA EMP",
+    "isEnabled": 1,
+    "description": "",
+    "price": "393,20"
+  },
+  {
+    "name": "PREMEZCLA KAPAC",
+    "isEnabled": 1,
+    "description": "",
+    "price": "229,20"
+  },
+  {
+    "name": "KAPAC HARINA DE ARROZ",
+    "isEnabled": 1,
+    "description": "",
+    "price": "217,00"
+  },
+  {
+    "name": "HILERET ZUCRA SOBRES",
+    "isEnabled": 1,
+    "description": "",
+    "price": "142,40"
+  },
+  {
+    "name": "HILERET STEVIA SOBRES",
+    "isEnabled": 1,
+    "description": "",
+    "price": "284,80"
+  },
+  {
+    "name": "HILERET ZUCRA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "269,80"
+  },
+  {
+    "name": "EL CASTILLO EXTRACTO DE VAINILLA 30 cc",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.320,00"
+  },
+  {
+    "name": "EL CASTILLO EXTRACTO DE VAINILLA 100 cc",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.064,00"
+  },
+  {
+    "name": "LA PARMESANA SALSA DE SOJA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "372,00"
+  },
+  {
+    "name": "SALSA TERIYAKI MATERIA PRIMA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "972,00"
+  },
+  {
+    "name": "GOMA XANTICA ONZA DE ORO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "244,10"
+  },
+  {
+    "name": "PERGOLA VAINILLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "174,90"
+  },
+  {
+    "name": "DULCE AVENA-TRIGO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "684,00"
+  },
+  {
+    "name": "DEL CAMPO POLENTA ORGANICA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "276,00"
+  },
+  {
+    "name": "DULRI STEVIA LIQUIDA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "588,00"
+  },
+  {
+    "name": "DULRI STEVIA X50 SOBRES",
+    "isEnabled": 1,
+    "description": "",
+    "price": "339,00"
+  },
+  {
+    "name": "DULRI 100 SOBRES",
+    "isEnabled": 1,
+    "description": "",
+    "price": "474,60"
+  },
+  {
+    "name": "GRUN PAN RALLADO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "960,00"
+  },
+  {
+    "name": "LEVEX",
+    "isEnabled": 1,
+    "description": "",
+    "price": "118,80"
+  },
+  {
+    "name": "QUINTO SABOR SABORIZANTE HUMO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.164,00"
+  },
+  {
+    "name": "WAKAS PASTA MAIZ",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.020,00"
+  },
+  {
+    "name": "WAKAS PASTA CHIA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.020,00"
+  },
+  {
+    "name": "WAKAS PASTA QUINOA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.020,00"
+  },
+  {
+    "name": "WAKAS PASTA POROTO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.200,00"
+  },
+  {
+    "name": "SINGLUKO MANZANA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "501,70"
+  },
+  {
+    "name": "MAMINA ARANDANOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "393,20"
+  },
+  {
+    "name": "SINGLUKO DULCE DE LECHE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "541,00"
+  },
+  {
+    "name": "SINGLUKO STEVIA ARANDANOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "528,80"
+  },
+  {
+    "name": "SINGLUKO STEVIA CIRUELA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "528,80"
+  },
+  {
+    "name": "SINGLUKO STEVIA FRUTILLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "528,80"
+  },
+  {
+    "name": "MAMINA DURAZNO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "366,10"
+  },
+  {
+    "name": "MAMINA CIRUELA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "366,10"
+  },
+  {
+    "name": "MAMINA FRUTILLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "393,20"
+  },
+  {
+    "name": "SINGLUKO CIRUELA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "501,70"
+  },
+  {
+    "name": "MAMINA NARANJA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "393,20"
+  },
+  {
+    "name": "SINGLUKO NARANJA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "501,70"
+  },
+  {
+    "name": "BUENOS AIRES VAINILLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "269,80"
+  },
+  {
+    "name": "BUENOS AIRES CANELA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "269,80"
+  },
+  {
+    "name": "BUENOS AIRES CHIPS DE CHOCO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "269,80"
+  },
+  {
+    "name": "MIEL MELIPOP 500ML",
+    "isEnabled": 1,
+    "description": "",
+    "price": "478,80"
+  },
+  {
+    "name": "DO�A MAGDALENA DULCE DE LECHE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.872,00"
+  },
+  {
+    "name": "SAL SIN SODIO NATURAL 70",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.152,00"
+  },
+  {
+    "name": "FRAMS SOPA ARVEJAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "250,90"
+  },
+  {
+    "name": "FRAMS SOPA ESPARRAGOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "250,90"
+  },
+  {
+    "name": "FRAMS SOPA CEBOLLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "250,90"
+  },
+  {
+    "name": "FRAMS SOPA ZAPALLO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "250,90"
+  },
+  {
+    "name": "FRAMS SOPA ZAPALLO PANCETA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "250,90"
+  },
+  {
+    "name": "TE HIERBAS DEL OASIS TE VERDE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "210,20"
+  },
+  {
+    "name": "TE HIERBAS DEL OASIS BOLDO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "420,50"
+  },
+  {
+    "name": "TE HIERBAS DEL OASIS TILO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "261,70"
+  },
+  {
+    "name": "TE HIERBAS DEL OASIS TE ROJO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "223,70"
+  },
+  {
+    "name": "TINTURA MADRE CARDO MARIANO (Hepatoprotector,Cirrocis,Hep)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "864,00"
+  },
+  {
+    "name": "TE HIERBAS DEL OASIS MELISA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "972,00"
+  },
+  {
+    "name": "TE HIERBAS DEL OASIS ROSA MOSQUETA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.344,00"
+  },
+  {
+    "name": "TE HIERBAS DEL OASIS CANELA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "804,00"
+  },
+  {
+    "name": "TINTURA MADRE GINSENG(Energizante,estimulante sexual)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.284,00"
+  },
+  {
+    "name": "TINTURA MADRE DIENTE DE LEON (Higado, depurativo, diabetes)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "804,00"
+  },
+  {
+    "name": "TINTURA MADRE CURCUMA (Reuma, antidepresivo, colesterol)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "864,00"
+  },
+  {
+    "name": "BITARWAN MISO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.400,00"
+  },
+  {
+    "name": "SANTA MARIA PREMEZ. PANAD Y REPOST.",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.060,00"
+  },
+  {
+    "name": "SANTA MARIA VAINILLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.464,00"
+  },
+  {
+    "name": "SANTA MARIA PREMEZ. PAN  Y REPOST. SIN LACTOSA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.060,00"
+  },
+  {
+    "name": "SANTA MARIA OBLEA LIMON",
+    "isEnabled": 1,
+    "description": "",
+    "price": "924,00"
+  },
+  {
+    "name": "SANTA MARIA OBLEA FRUTILLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "924,00"
+  },
+  {
+    "name": "NATUZEN PAN RALLADO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "332,20"
+  },
+  {
+    "name": "NATUZEN TAPITA ALFAJ.",
+    "isEnabled": 1,
+    "description": "",
+    "price": "198,00"
+  },
+  {
+    "name": "CUARTO CRECIENTE JUGO ARANDANO S/CHIA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "540,00"
+  },
+  {
+    "name": "JUGO LAS BRISAS ARANDANO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "339,00"
+  },
+  {
+    "name": "CUARTO CRECIENTE JUGO ARANDANO C/CHIA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "540,00"
+  },
+  {
+    "name": "LAS BRISAS DETOX",
+    "isEnabled": 1,
+    "description": "",
+    "price": "996,00"
+  },
+  {
+    "name": "CUARTO CRECIENTE MERMELADA FRUTILLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.608,00"
+  },
+  {
+    "name": "SOY ARROZ FIDEOS DE ARROZ",
+    "isEnabled": 1,
+    "description": "",
+    "price": "768,00"
+  },
+  {
+    "name": "QUINTO SABOR ACETO ANDINO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.068,00"
+  },
+  {
+    "name": "QUINTO SABOR ACETO DE ARANDANOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.044,00"
+  },
+  {
+    "name": "BON WERT CALDO VERDURA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "198,00"
+  },
+  {
+    "name": "BON WERT CALDO VERDURA S. SAL",
+    "isEnabled": 1,
+    "description": "",
+    "price": "198,00"
+  },
+  {
+    "name": "BON WERT CALDO CARNE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "198,00"
+  },
+  {
+    "name": "BON WERT CALDO GALLINA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "198,00"
+  },
+  {
+    "name": "BON WERT SOPA CEBOLLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "176,30"
+  },
+  {
+    "name": "BON WERT SOPA HONGOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "176,30"
+  },
+  {
+    "name": "BON WERT SOPA ARVEJAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "176,30"
+  },
+  {
+    "name": "BON WERT SOPA QUESO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "176,30"
+  },
+  {
+    "name": "NATIER JUGO ALOE VERA",
+    "isEnabled": 1,
+    "description": "reducir la inflamaci�n, mejorar la digesti�n, reducir los niveles de az�car en la sangre y tener efectos antioxidantes.",
+    "price": "3.324,00"
+  },
+  {
+    "name": "NATIER CLOROFILA",
+    "isEnabled": 1,
+    "description": "propiedades antioxidantes, antiinflamatorias y desintoxicantes, ayudar a mejorar la digesti�n y la salud del coraz�n.",
+    "price": "4.020,00"
+  },
+  {
+    "name": "NATIER COLAGENO HIDROLIZADO",
+    "isEnabled": 1,
+    "description": "-para las articulaciones, huesos, m�sculos y piel.\\n-mejora la apariencia de la piel, aumentar su suavidad y promueve la renovaci�n celular y la reparaci�n.\\n-Tambi�n ayuda en la formaci�n del tejido muscular.\\n-combate los radicales libres y previenen el envejecimiento prematuro.",
+    "price": "10.440,00"
+  },
+  {
+    "name": "NATIER VITAMINA B12",
+    "isEnabled": 1,
+    "description": "-SUPLEMENTA DIETAS VEGANAS Y VEGETARIANAS.\\n-PREVIENE LOS ESTADOS AN�MICOS Y DE FATIGA GENERAL.\\n-ACT�A COMO ESTIMULANTE DEL SISTEMA NERVIOSO CENTRAL.\\n-MEJORA LA SALUD Y APARIENCIA DE LA PIEL, CABELLO Y U�AS.\\n-MEJORA LA FUNCI�N DIGESTIVA E INTESTINAL.",
+    "price": "6.768,00"
+  },
+  {
+    "name": "NANI ARITOS FRUTALES",
+    "isEnabled": 1,
+    "description": "",
+    "price": "230,50"
+  },
+  {
+    "name": "ARITOS DE CEREAL NANI",
+    "isEnabled": 1,
+    "description": "",
+    "price": "183,10"
+  },
+  {
+    "name": "BOLITAS DE CEREAL NANI",
+    "isEnabled": 1,
+    "description": "",
+    "price": "183,10"
+  },
+  {
+    "name": "NANI BOCADITOS FRUTILLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "276,00"
+  },
+  {
+    "name": "NANI BOCADITOS LIMON",
+    "isEnabled": 1,
+    "description": "",
+    "price": "276,00"
+  },
+  {
+    "name": "FIDEOS DE ARROZ JEN HSIANG",
+    "isEnabled": 1,
+    "description": "",
+    "price": "196,60"
+  },
+  {
+    "name": "ARYTZA TIPO DIJON",
+    "isEnabled": 1,
+    "description": "",
+    "price": "352,60"
+  },
+  {
+    "name": "ARYTZA A LA MIEL",
+    "isEnabled": 1,
+    "description": "",
+    "price": "311,90"
+  },
+  {
+    "name": "ARYTZA FINAS HIERBAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "311,90"
+  },
+  {
+    "name": "ARYTZA BARBACOA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "420,40"
+  },
+  {
+    "name": "ARYTZA CURRY PICANTE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "541,00"
+  },
+  {
+    "name": "TOFU SOYANA 350GRS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.088,00"
+  },
+  {
+    "name": "DIABEST CHOCOLATE Y AVENA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "684,00"
+  },
+  {
+    "name": "DIABEST COCO Y AVENA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "684,00"
+  },
+  {
+    "name": "DIABEST LIMON Y AVENA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "684,00"
+  },
+  {
+    "name": "TRINI STEVIA LIQUIDA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "924,00"
+  },
+  {
+    "name": "TRINI CACAO-STEVIA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "996,00"
+  },
+  {
+    "name": "TRINI STEVIA EN POLVO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.584,00"
+  },
+  {
+    "name": "TRINI BARRITAS DE CEREAL",
+    "isEnabled": 1,
+    "description": "",
+    "price": "276,00"
+  },
+  {
+    "name": "VEGAN NUGGETS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "900,00"
+  },
+  {
+    "name": "ULTRA TECH CREATINA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "14.160,00"
+  },
+  {
+    "name": "ORGANIKAL SPIRULINA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.096,00"
+  },
+  {
+    "name": "ORGANIKAL TE MATCHA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.084,00"
+  },
+  {
+    "name": "CHOCOLATE FAMILIAR SEMIAMARGO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "379,70"
+  },
+  {
+    "name": "DIMAX HARINA DE ARROZ X 1 KG",
+    "isEnabled": 1,
+    "description": "",
+    "price": "440,70"
+  },
+  {
+    "name": "DIMAX FECULA DE MANDIOCA X 1 KG",
+    "isEnabled": 1,
+    "description": "",
+    "price": "705,10"
+  },
+  {
+    "name": "DIMAX P-P-P 1KG",
+    "isEnabled": 1,
+    "description": "",
+    "price": "637,30"
+  },
+  {
+    "name": "DIMAX P-P-P 500 G",
+    "isEnabled": 1,
+    "description": "",
+    "price": "253,60"
+  },
+  {
+    "name": "CALDO VERDURA SIN SAL ARGEN DIET",
+    "isEnabled": 1,
+    "description": "",
+    "price": "198,00"
+  },
+  {
+    "name": "MACROCEN SAL FINA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "298,30"
+  },
+  {
+    "name": "ALGAS NORY",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.016,00"
+  },
+  {
+    "name": "PADOAN PRERMEZ. PASTA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "253,60"
+  },
+  {
+    "name": "PADOAN PREMEZ. TORTA COCO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "269,80"
+  },
+  {
+    "name": "PADOAN PREMEZ. TORTA LIMON",
+    "isEnabled": 1,
+    "description": "",
+    "price": "269,80"
+  },
+  {
+    "name": "PADAON PREMEZ. TORTA CHOCO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "269,80"
+  },
+  {
+    "name": "PADOAN PREMEZ. BROWNIE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "269,80"
+  },
+  {
+    "name": "LA FRANCIA PANES",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.296,00"
+  },
+  {
+    "name": "LA FRANCIA PEPAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "888,00"
+  },
+  {
+    "name": "DELICEL PREMEZCLA BIZCOCHUELO VAINILLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.056,00"
+  },
+  {
+    "name": "DELICEL PREMEZCLA PARA PIZZA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.056,00"
+  },
+  {
+    "name": "DELICEL PREMEZCLA UNIVERZAL",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.056,00"
+  },
+  {
+    "name": "DELICEL PREMEZCLA PARA PAN",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.056,00"
+  },
+  {
+    "name": "DELICEL GALL LIMON",
+    "isEnabled": 1,
+    "description": "",
+    "price": "492,00"
+  },
+  {
+    "name": "DELICEL GALL COCO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "492,00"
+  },
+  {
+    "name": "DELICEL GALL CHIPS DE CHOCO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "492,00"
+  },
+  {
+    "name": "CERRO AZUL ALFAJORES",
+    "isEnabled": 1,
+    "description": "",
+    "price": "600,00"
+  },
+  {
+    "name": "MEDI NATURAL JARABE DE PROPOLEO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.752,00"
+  },
+  {
+    "name": "NATURAL SEED RAWMESAN",
+    "isEnabled": 1,
+    "description": "",
+    "price": "488,20"
+  },
+  {
+    "name": "SMAMS CHIPS COCHO SIN AZUCAR",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.068,00"
+  },
+  {
+    "name": "SMAMS RELLENAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "576,00"
+  },
+  {
+    "name": "SMAMS BUDIN MARMOLADO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.488,00"
+  },
+  {
+    "name": "SMAMS CRACKERS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "780,00"
+  },
+  {
+    "name": "SMAMS CRACKERS SIN SAL",
+    "isEnabled": 1,
+    "description": "",
+    "price": "780,00"
+  },
+  {
+    "name": "SMAMS COCO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "269,80"
+  },
+  {
+    "name": "SMAMS BUDIN SIN AZUCAR VAINILLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.644,00"
+  },
+  {
+    "name": "SMAMS POLVORONES SIN AZUCAR",
+    "isEnabled": 1,
+    "description": "",
+    "price": "984,00"
+  },
+  {
+    "name": "SMAMS PEPAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "636,00"
+  },
+  {
+    "name": "SMAMS PAN RALLADO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "528,00"
+  },
+  {
+    "name": "SMAMS SNACKS QUESO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "360,00"
+  },
+  {
+    "name": "SMAMS SNACKS JAMON",
+    "isEnabled": 1,
+    "description": "",
+    "price": "360,00"
+  },
+  {
+    "name": "SMAMS SNACKS PIZZA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "360,00"
+  },
+  {
+    "name": "NATIER PROPOLEO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "6.444,00"
+  },
+  {
+    "name": "ROAPIPO TRADICIONAL X 500",
+    "isEnabled": 1,
+    "description": "",
+    "price": "650,90"
+  },
+  {
+    "name": "ROAPIPO SUAVE X 500",
+    "isEnabled": 1,
+    "description": "",
+    "price": "650,90"
+  },
+  {
+    "name": "JESPER YERBA X500",
+    "isEnabled": 1,
+    "description": "",
+    "price": "637,30"
+  },
+  {
+    "name": "NATURALSUR REBOZADOR",
+    "isEnabled": 1,
+    "description": "",
+    "price": "230,50"
+  },
+  {
+    "name": "SOFT COOKIES",
+    "isEnabled": 1,
+    "description": "",
+    "price": "101,70"
+  },
+  {
+    "name": "PATAGONIA RAINS CLASICAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "135,60"
+  },
+  {
+    "name": "PATAGONIA RAINS SIN SAL",
+    "isEnabled": 1,
+    "description": "",
+    "price": "135,60"
+  },
+  {
+    "name": "PATAGONIA RAINS DULCES",
+    "isEnabled": 1,
+    "description": "",
+    "price": "135,60"
+  },
+  {
+    "name": "BIOO MOLDE CLASICO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "339,00"
+  },
+  {
+    "name": "BIOO MOLDE CON SEMILLAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "352,60"
+  },
+  {
+    "name": "BIOO TORTUGA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "284,80"
+  },
+  {
+    "name": "BIOO TORTUGA CON SESAMO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "284,80"
+  },
+  {
+    "name": "CROWIE TOST ARROZ CLASICAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "100,30"
+  },
+  {
+    "name": "BOLCAN DE CHOCO 123 LISTO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "433,90"
+  },
+  {
+    "name": "PROCAL GOMA XANTICA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "660,00"
+  },
+  {
+    "name": "CELIDARINA HARINA DE TRIGO SARRACENO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "541,00"
+  },
+  {
+    "name": "CELIDARINA SORGO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.536,00"
+  },
+  {
+    "name": "CELINDARINA PREMEZCLA TORTA FRITA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "311,90"
+  },
+  {
+    "name": "CELIDARINA PREMEZ. PAN TIPO LACTEADO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "311,90"
+  },
+  {
+    "name": "CELIDAERINA PREMEZCLA FROLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "217,00"
+  },
+  {
+    "name": "CELIDAERINA PREMEZ. UNIV. DULCES",
+    "isEnabled": 1,
+    "description": "",
+    "price": "311,90"
+  },
+  {
+    "name": "CELIDAERINA PREMEZ. SALADA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "311,90"
+  },
+  {
+    "name": "TRENFU LECHE DE ALMENDRAS ORIGINAL",
+    "isEnabled": 1,
+    "description": "",
+    "price": "238,80"
+  },
+  {
+    "name": "TRENFU LECHE DE ALMENDRAS VAINILLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "447,50"
+  },
+  {
+    "name": "DALE COCO AGUA DE COCO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "461,00"
+  },
+  {
+    "name": "NAQUET PALMERITAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "339,00"
+  },
+  {
+    "name": "NAQUET GRISINES CLASICOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "339,00"
+  },
+  {
+    "name": "NAQUET GRISINES QUESO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "339,00"
+  },
+  {
+    "name": "NAQUET GRISINES CEBOLLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "339,00"
+  },
+  {
+    "name": "ANGIOLA CHOCO S AZUCAR",
+    "isEnabled": 1,
+    "description": "",
+    "price": "250,90"
+  },
+  {
+    "name": "QUINOLA GRANOLA SIN TACC",
+    "isEnabled": 1,
+    "description": "",
+    "price": "912,00"
+  },
+  {
+    "name": "ARROZ NEGRO PAMPA RICE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "610,20"
+  },
+  {
+    "name": "MUECAS BARRITAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "396,00"
+  },
+  {
+    "name": "VRINK LECHE DE ALMENDRA VAINILLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "405,40"
+  },
+  {
+    "name": "COOCON 200 ML",
+    "isEnabled": 1,
+    "description": "",
+    "price": "264,00"
+  },
+  {
+    "name": "VRINK LECHE DE COCO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "405,40"
+  },
+  {
+    "name": "QUIMYA YOGURES",
+    "isEnabled": 1,
+    "description": "",
+    "price": "624,00"
+  },
+  {
+    "name": "FRANKS PAN DE HAMBURGUESA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "189,80"
+  },
+  {
+    "name": "XILITOL",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.776,00"
+  },
+  {
+    "name": "ERITRITOL",
+    "isEnabled": 1,
+    "description": "",
+    "price": "6.444,00"
+  },
+  {
+    "name": "INTEGRA BARRITAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "360,00"
+  },
+  {
+    "name": "INTEGRA COOKIES & CRACKERS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "696,00"
+  },
+  {
+    "name": "INTEGRA GRANOLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.220,00"
+  },
+  {
+    "name": "SAKANASHI SALSA DE SOJA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "257,60"
+  },
+  {
+    "name": "SALSA DE SOJA SAKANASHI AMARILLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "284,80"
+  },
+  {
+    "name": "CHEZ MOMO PLASTICO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "433,90"
+  },
+  {
+    "name": "PROPOLEO LIQUIDO LA FRANCISCANA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "926,10"
+  },
+  {
+    "name": "HILERET STEVIA 50 SOB",
+    "isEnabled": 1,
+    "description": "",
+    "price": "250,90"
+  },
+  {
+    "name": "GALLO SNACKS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "203,40"
+  },
+  {
+    "name": "DON MARCOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "156,00"
+  },
+  {
+    "name": "SCHARS PAN BLANCO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "433,90"
+  },
+  {
+    "name": "SCHARS PENNE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.320,00"
+  },
+  {
+    "name": "SCHARS SPAGHETTI",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.320,00"
+  },
+  {
+    "name": "SCHARS FUSILLI",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.320,00"
+  },
+  {
+    "name": "SCHARS TOSTADAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "552,00"
+  },
+  {
+    "name": "COW'S PURE GHEE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "745,80"
+  },
+  {
+    "name": "COW'S PURE CON SAL HIMALAYA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "947,80"
+  },
+  {
+    "name": "COWS PURE GHEE AHUMADA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.944,00"
+  },
+  {
+    "name": "VINAGRE DE SIDRA DE MANZANA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "9.528,00"
+  },
+  {
+    "name": "SAQUITO INFUSOR",
+    "isEnabled": 1,
+    "description": "",
+    "price": "192,00"
+  },
+  {
+    "name": "DAHI CON FRUTAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "780,00"
+  },
+  {
+    "name": "GRANEL",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1,20"
+  },
+  {
+    "name": "ADOBO PARA PIZZA",
+    "isEnabled": 1,
+    "description": "CONDIMENTOS",
+    "price": "2.076,00"
+  },
+  {
+    "name": "AJENJO (malestar estomacal y hepatica. elimina parasitos intestinales, regular el ciclo menstrual, resfrio y tos. 1/2 cucharada por Taza. Sin endulzar hasta 3 tazas x dia.)",
+    "isEnabled": 1,
+    "description": "Malestar estomacal y hepatica. elimina parasitos intestinales, regular el ciclo menstrual, resfrio y tos. 1/2 cucharada por Taza. Sin endulzar hasta 3 tazas x dia.\\n1A",
+    "price": "3.540,00"
+  },
+  {
+    "name": "AJI MOLIDO",
+    "isEnabled": 1,
+    "description": "CONDIMENTOS",
+    "price": "1.800,00"
+  },
+  {
+    "name": "AJO EN POLVO",
+    "isEnabled": 1,
+    "description": "CONDIMENTOS",
+    "price": "3.600,00"
+  },
+  {
+    "name": "ALCACHOFA (hepatoprotectora, coleretica, migra�a y valores altos de trigliceridos contra indicado con colon irritable.)",
+    "isEnabled": 1,
+    "description": "Hepatoprotectora, coleretica, migra�a y valores altos de trigliceridos contra indicado con colon irritable.\\nHIERBAS/2",
+    "price": "3.348,00"
+  },
+  {
+    "name": "ALMENDRAS",
+    "isEnabled": 1,
+    "description": "1D",
+    "price": "8.268,00"
+  },
+  {
+    "name": "ALMENDRAS C/ CHOCO",
+    "isEnabled": 1,
+    "description": "1A",
+    "price": "4.920,00"
+  },
+  {
+    "name": "ALMIDON DE MAIZ",
+    "isEnabled": 1,
+    "description": "2A",
+    "price": "768,00"
+  },
+  {
+    "name": "AMAPOLA",
+    "isEnabled": 1,
+    "description": "2D",
+    "price": "8.904,00"
+  },
+  {
+    "name": "AMARANTO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.620,00"
+  },
+  {
+    "name": "ANIS EN GRANO",
+    "isEnabled": 1,
+    "description": "2B",
+    "price": "31.620,00"
+  },
+  {
+    "name": "ARANDANOS DESHIDRATADOS",
+    "isEnabled": 1,
+    "description": "1B\\n",
+    "price": "8.868,00"
+  },
+  {
+    "name": "ARITOS FRUTALES",
+    "isEnabled": 1,
+    "description": "",
+    "price": "813,60"
+  },
+  {
+    "name": "ARROZ CARNAROLI",
+    "isEnabled": 1,
+    "description": "",
+    "price": "550,50"
+  },
+  {
+    "name": "ARROZ INFLADO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "745,80"
+  },
+  {
+    "name": "ARROZ INTEGRAL",
+    "isEnabled": 1,
+    "description": "",
+    "price": "432,00"
+  },
+  {
+    "name": "ARROZ PARA SUSHI",
+    "isEnabled": 1,
+    "description": "",
+    "price": "456,00"
+  },
+  {
+    "name": "ARROZ YAMANI",
+    "isEnabled": 1,
+    "description": "1D",
+    "price": "708,00"
+  },
+  {
+    "name": "ARTEMISA (diur�tica desintoxicante Antiinflamatoria, analgesica. Resfrio Y gripe. Eleva las defensas del sist. inmunologico)",
+    "isEnabled": 1,
+    "description": "Diur�tica desintoxicante Antiinflamatoria, analgesica. Resfrio Y gripe. Eleva las defensas del sist. inmunologico\\n1A",
+    "price": "3.720,00"
+  },
+  {
+    "name": "ARVEJAS",
+    "isEnabled": 1,
+    "description": "2B",
+    "price": "768,00"
+  },
+  {
+    "name": "AVELLANAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.390,00"
+  },
+  {
+    "name": "AVENA INSTANTANEA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "936,00"
+  },
+  {
+    "name": "AZUCAR IMPALPABLE",
+    "isEnabled": 1,
+    "description": "1C",
+    "price": "1.188,00"
+  },
+  {
+    "name": "AZUCAR MASCABO",
+    "isEnabled": 1,
+    "description": "SUELTOS",
+    "price": "1.860,00"
+  },
+  {
+    "name": "BAILA BIEN (afrodis�aco y antis�ptico,antiflatulento)",
+    "isEnabled": 1,
+    "description": "1A\\n",
+    "price": "3.720,00"
+  },
+  {
+    "name": "BANANA EN CHIP",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.264,50"
+  },
+  {
+    "name": "BICARBONATO",
+    "isEnabled": 1,
+    "description": "1C",
+    "price": "1.188,00"
+  },
+  {
+    "name": "BOLITAS DE CHOCO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "854,30"
+  },
+  {
+    "name": "CACAO AMARGO",
+    "isEnabled": 1,
+    "description": "1B\\n",
+    "price": "3.600,00"
+  },
+  {
+    "name": "CACAO DULCE",
+    "isEnabled": 1,
+    "description": "2B",
+    "price": "1.920,00"
+  },
+  {
+    "name": "CANELA MOLIDA",
+    "isEnabled": 1,
+    "description": "2C",
+    "price": "7.440,00"
+  },
+  {
+    "name": "CARAMELOS DE PROPOLEO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "4.920,00"
+  },
+  {
+    "name": "CARAMELOS PROPOLEO Y EUCALIPTO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "4.920,00"
+  },
+  {
+    "name": "CARQUEJA (regula presi�n orterial. niveles de azucar en sangre. Ayuda a fortalecer el sist. inmunologico, Antinflomontoria y diur�tico, mejora la digestion. No Tomar en emborazo o Lactancia.)",
+    "isEnabled": 1,
+    "description": "Regula presi�n orterial. niveles de azucar en sangre. Ayuda a fortalecer el sist. inmunologico, Antinflomontoria y diur�tico, mejora la digestion. No Tomar en emborazo o Lactancia.\\n1A\\n",
+    "price": "3.516,00"
+  },
+  {
+    "name": "CEBOLLA EN POLVO",
+    "isEnabled": 1,
+    "description": "2E",
+    "price": "2.916,00"
+  },
+  {
+    "name": "CEREAL C/ CHOCO BLANCO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.966,20"
+  },
+  {
+    "name": "CEREAL C/ CHOCO NEGRO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.966,20"
+  },
+  {
+    "name": "CHIA",
+    "isEnabled": 1,
+    "description": "2B\\n",
+    "price": "3.720,00"
+  },
+  {
+    "name": "CHIPS CHOCO BLANCO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "188,50"
+  },
+  {
+    "name": "CIRUELAS",
+    "isEnabled": 1,
+    "description": "1A",
+    "price": "3.480,00"
+  },
+  {
+    "name": "CLAVO DE OLOR",
+    "isEnabled": 1,
+    "description": "",
+    "price": "9.480,00"
+  },
+  {
+    "name": "COCO RALLADO",
+    "isEnabled": 1,
+    "description": "1B",
+    "price": "5.040,00"
+  },
+  {
+    "name": "COLA DE CABALLO (Reduce la retencion de liquidos, antioxidante y antiinflamatoria, Diuretica.)",
+    "isEnabled": 1,
+    "description": "Reduce la retencion de liquidos, antioxidante y antiinflamatoria, Diuretica.\\n2B",
+    "price": "3.516,00"
+  },
+  {
+    "name": "COLA DE QUIRQUINCHO (afrodisiaco)",
+    "isEnabled": 1,
+    "description": "Afrodisiaco\\n",
+    "price": "5.400,00"
+  },
+  {
+    "name": "CONTRAYERBA (contra la fiebre intermitente, estimulante y diur�tico)",
+    "isEnabled": 1,
+    "description": "1C",
+    "price": "5.004,00"
+  },
+  {
+    "name": "COREANDRO MOLIDO",
+    "isEnabled": 1,
+    "description": "CONDIMENTOS",
+    "price": "2.412,00"
+  },
+  {
+    "name": "CREMOR TARTARO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.508,60"
+  },
+  {
+    "name": "CURCUMA",
+    "isEnabled": 1,
+    "description": "1B\\n",
+    "price": "3.000,00"
+  },
+  {
+    "name": "DATILES",
+    "isEnabled": 1,
+    "description": "1B",
+    "price": "4.776,00"
+  },
+  {
+    "name": "DURAZNOS",
+    "isEnabled": 1,
+    "description": "2A",
+    "price": "6.600,00"
+  },
+  {
+    "name": "EL BIERZO BONDIOLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "4.467,60"
+  },
+  {
+    "name": "EL BIERZO JAMON COCIDO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.048,00"
+  },
+  {
+    "name": "EL BIERZO MILAN",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.980,00"
+  },
+  {
+    "name": "EL BIERZO PALETA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.808,00"
+  },
+  {
+    "name": "EL BIERZO SALAME PECHERITA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "4.034,10"
+  },
+  {
+    "name": "EL BIERZO SALAMIN PICADO FINO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "4.200,00"
+  },
+  {
+    "name": "FECULA DE MANDIOCA",
+    "isEnabled": 1,
+    "description": "2D",
+    "price": "2.556,00"
+  },
+  {
+    "name": "FIBRA TOTAL",
+    "isEnabled": 1,
+    "description": "1E",
+    "price": "1.920,00"
+  },
+  {
+    "name": "FRESNO HOJAS (acci�n diur�tica, sudor�fica, analg�sica, antiinflamatoria, cicatrizante, vasoprotectora, venot�nica y laxante.)",
+    "isEnabled": 1,
+    "description": "1B",
+    "price": "3.540,00"
+  },
+  {
+    "name": "FRUTA GLASEADA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.762,80"
+  },
+  {
+    "name": "FUMARIA (para combatir las impurezas de la sangre y afecciones de la piel, propiedades espasmol�ticas y descongestionante de las v�as biliares.)",
+    "isEnabled": 1,
+    "description": "1A\\n",
+    "price": "2.640,00"
+  },
+  {
+    "name": "GARBANZOS",
+    "isEnabled": 1,
+    "description": "1A",
+    "price": "1.176,00"
+  },
+  {
+    "name": "GELATINA  S/ SABOR",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.480,00"
+  },
+  {
+    "name": "GIRASOL",
+    "isEnabled": 1,
+    "description": "1D\\n\\n\\n",
+    "price": "1.320,00"
+  },
+  {
+    "name": "GRANOLA CHOCO",
+    "isEnabled": 1,
+    "description": "INGREDIENTES:\\navena,miel,almendras,aceite de girasol,cacao,chips de chocolate",
+    "price": "852,00"
+  },
+  {
+    "name": "GRANOLA CEREAL SIN AZUCAR",
+    "isEnabled": 1,
+    "description": "INGREDIENTES: \\ncopos,avena,mani,pasas de uva,jugo de frutas manzana,girasol,almendras,lino,sesamo",
+    "price": "732,00"
+  },
+  {
+    "name": "GRANOLA FIT SIN AZUCAR",
+    "isEnabled": 1,
+    "description": "INGREDIENTES: \\navena,miel,semillas de zapallo,girasol,casta�as,almendras,coco.",
+    "price": "840,00"
+  },
+  {
+    "name": "GRANOLA TASTE",
+    "isEnabled": 1,
+    "description": "INGREDIENTES:\\navena,miel,girasol,almendras,coco,azucar rubia",
+    "price": "732,00"
+  },
+  {
+    "name": "GRANOLA VEGAN SIN AZUCAR",
+    "isEnabled": 1,
+    "description": "INGREDIENTES:\\navena,jugo de frutas,casta�as,almendras,nueces,coco,aceite de girasol,girasol,lino.",
+    "price": "960,00"
+  },
+  {
+    "name": "HARINA DE ALGARROBA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.460,00"
+  },
+  {
+    "name": "HARINA DE ALMENDRAS",
+    "isEnabled": 1,
+    "description": "1D",
+    "price": "3.720,00"
+  },
+  {
+    "name": "HARINA DE ARROZ",
+    "isEnabled": 1,
+    "description": "",
+    "price": "672,00"
+  },
+  {
+    "name": "HARINA DE ARVEJA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "780,00"
+  },
+  {
+    "name": "HARINA DE AVENA",
+    "isEnabled": 1,
+    "description": "1D\\n",
+    "price": "996,00"
+  },
+  {
+    "name": "HARINA DE CENTENO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "648,00"
+  },
+  {
+    "name": "HARINA DE CHIA",
+    "isEnabled": 1,
+    "description": "RESTOS",
+    "price": "2.112,00"
+  },
+  {
+    "name": "HARINA DE COCO",
+    "isEnabled": 1,
+    "description": "1C",
+    "price": "4.092,00"
+  },
+  {
+    "name": "HARINA DE GARBANZO",
+    "isEnabled": 1,
+    "description": "2B",
+    "price": "756,00"
+  },
+  {
+    "name": "HARINA DE LINO",
+    "isEnabled": 1,
+    "description": "2D",
+    "price": "972,00"
+  },
+  {
+    "name": "HARINA INTEGRAL",
+    "isEnabled": 1,
+    "description": "",
+    "price": "516,00"
+  },
+  {
+    "name": "HARINA INTEGRAL GRUESA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "252,00"
+  },
+  {
+    "name": "HARINA PARAGUAYA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "840,00"
+  },
+  {
+    "name": "ILOLAY QUESO EN BARRA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "4.008,00"
+  },
+  {
+    "name": "ILOLAY QUESO POR SALUT",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.278,10"
+  },
+  {
+    "name": "LENTEJAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.524,00"
+  },
+  {
+    "name": "LENTEJAS CHOCOLATE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.817,00"
+  },
+  {
+    "name": "LENTEJAS TURCAS",
+    "isEnabled": 1,
+    "description": "1A\\n",
+    "price": "3.780,00"
+  },
+  {
+    "name": "MACA (regulador hormonal, vigor sexual, desarrollo armonico en ni�os,calsifica los huesos,agotamiento fisico,stress,regula sist. nervioso)",
+    "isEnabled": 1,
+    "description": "2B",
+    "price": "3.780,00"
+  },
+  {
+    "name": "MACA NEGRA",
+    "isEnabled": 1,
+    "description": "2B",
+    "price": "4.992,00"
+  },
+  {
+    "name": "MAIZ AMILACEO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "672,00"
+  },
+  {
+    "name": "MAIZ INFLADO/TUTUCAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.356,00"
+  },
+  {
+    "name": "MAIZ PISADO BLANCO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "311,90"
+  },
+  {
+    "name": "MAIZ PISINGALLO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "217,00"
+  },
+  {
+    "name": "MALVA (mejora las afecciones de la piel)",
+    "isEnabled": 1,
+    "description": "Sequedad de garganta, bronquitis lesiones bucales, ba�os y ulceras, erupciones, hemorroides.\\nH2\\n",
+    "price": "3.540,00"
+  },
+  {
+    "name": "MANI C/ SAL",
+    "isEnabled": 1,
+    "description": "1D ARPILLERA\\n",
+    "price": "1.860,00"
+  },
+  {
+    "name": "MANI S/ SAL",
+    "isEnabled": 1,
+    "description": "1D ARPILLERA\\n",
+    "price": "1.860,00"
+  },
+  {
+    "name": "MANZANILLA (antinflamatorio,digestivo para convatir la diabetes)",
+    "isEnabled": 1,
+    "description": "2B\\n",
+    "price": "8.400,00"
+  },
+  {
+    "name": "MARCELA (antioxidante, antiinflamatorio y antiviral)",
+    "isEnabled": 1,
+    "description": "2A",
+    "price": "6.696,00"
+  },
+  {
+    "name": "MELISA (antiespasm�dica, favorece el sue�o,digestiva,antisteres)",
+    "isEnabled": 1,
+    "description": "2A",
+    "price": "3.900,00"
+  },
+  {
+    "name": "MENTA EN HOJAS ( reduce la congesti�n nasal, la de la garganta y los pulmones)",
+    "isEnabled": 1,
+    "description": "H2",
+    "price": "5.100,00"
+  },
+  {
+    "name": "MIX BREAK",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.966,20"
+  },
+  {
+    "name": "MIX ENERGIA",
+    "isEnabled": 1,
+    "description": "1E",
+    "price": "3.216,00"
+  },
+  {
+    "name": "MIX SALADO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.491,60"
+  },
+  {
+    "name": "MIX DE SEMILLAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.200,00"
+  },
+  {
+    "name": "MORINGA (protege el higado, nutre la piel y el pelo, diabetes, asma, presion arterial)",
+    "isEnabled": 1,
+    "description": "2A",
+    "price": "14.040,00"
+  },
+  {
+    "name": "MOSTAZA EN GRANO",
+    "isEnabled": 1,
+    "description": "2C",
+    "price": "1.320,00"
+  },
+  {
+    "name": "MU�A MU�A (digesti�n, la inflamaci�n, la visi�n y afrodis�aca)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "4.500,00"
+  },
+  {
+    "name": "NUEZ MOSCADA MOLIDA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "8.280,00"
+  },
+  {
+    "name": "OREGANO",
+    "isEnabled": 1,
+    "description": "2B\\n",
+    "price": "3.120,00"
+  },
+  {
+    "name": "ORTIGA (rica en clorofila,antioxidante,hierro,azufre,potasio,vitaminas A, B2, K1 y �cido f�lico)",
+    "isEnabled": 1,
+    "description": "1A",
+    "price": "3.900,00"
+  },
+  {
+    "name": "PAJARO BOBO (antinflamantoria, antifebriles, ontibioticas, insecticida y antioncologicos.)",
+    "isEnabled": 1,
+    "description": "Antinflamantoria, antifebriles, ontibioticas, insecticida y antioncologicos.",
+    "price": "3.516,00"
+  },
+  {
+    "name": "PALO AZUL (reumatismo, artritis, lumbago, ciatico. Previene colicos renales y hepaticas)",
+    "isEnabled": 1,
+    "description": "Reumatismo, artritis, lumbago, ciatico. Previene colicos renales y hepaticas. 1 cucharada en 1lt de agua fria, dejar hasta la noche, colentar hasta hervor, colar y tomar durante el dia.\\nHIERBAS",
+    "price": "3.516,00"
+  },
+  {
+    "name": "PANKO",
+    "isEnabled": 1,
+    "description": "2B",
+    "price": "3.600,00"
+  },
+  {
+    "name": "PASAS C/ CHOCO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.360,00"
+  },
+  {
+    "name": "PASAS DE UVA MOROCHAS",
+    "isEnabled": 1,
+    "description": "1E\\n",
+    "price": "1.704,00"
+  },
+  {
+    "name": "PASAS DE UVA RUBIAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.632,00"
+  },
+  {
+    "name": "PEPERINA (propiedades digestivas,hep�tica,vesicular,antiespasm�dica)",
+    "isEnabled": 1,
+    "description": "2A\\n",
+    "price": "4.824,00"
+  },
+  {
+    "name": "PIMENTON AHUMADO",
+    "isEnabled": 1,
+    "description": "CONDIMENTOS",
+    "price": "3.996,00"
+  },
+  {
+    "name": "PIMIENTA BLANCA EN GRANO",
+    "isEnabled": 1,
+    "description": "CONDIMENTOS",
+    "price": "12.000,00"
+  },
+  {
+    "name": "PIMIENTA BLANCA MOLIDA",
+    "isEnabled": 1,
+    "description": "CONDIMENTOS",
+    "price": "5.520,00"
+  },
+  {
+    "name": "PIMIENTA NEGRA EN GRANO",
+    "isEnabled": 1,
+    "description": "CONDIMENTOS",
+    "price": "8.520,00"
+  },
+  {
+    "name": "PIMIENTA NEGRA MOLIDA",
+    "isEnabled": 1,
+    "description": "CONDIMENTOS",
+    "price": "3.444,00"
+  },
+  {
+    "name": "POLVO DE HORNEAR",
+    "isEnabled": 1,
+    "description": "1B",
+    "price": "2.940,00"
+  },
+  {
+    "name": "POROTOS ALUBIA",
+    "isEnabled": 1,
+    "description": "2C",
+    "price": "1.116,00"
+  },
+  {
+    "name": "POROTOS PALLARES",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.440,00"
+  },
+  {
+    "name": "PROVENZAL",
+    "isEnabled": 1,
+    "description": "2B",
+    "price": "1.800,00"
+  },
+  {
+    "name": "LA TREGUA QUESO CREMOSO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.532,00"
+  },
+  {
+    "name": "LA TREGUA QUESO SARDO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "4.248,00"
+  },
+  {
+    "name": "QUINOA",
+    "isEnabled": 1,
+    "description": "2C",
+    "price": "3.132,00"
+  },
+  {
+    "name": "RETAMILLA (combate infecciones,diarrea,colera,disenteria)",
+    "isEnabled": 1,
+    "description": "Infecciones intestinales e ictericia, Estimula el sist. inmunologico reduce presion sanguinea alta y tama�o de tumores 1lt de agua hirviendo 25 gr. flores 2 a 4 tazas por dia.",
+    "price": "2.964,00"
+  },
+  {
+    "name": "ROMPEPIEDRA (calculos renales,diuretica)",
+    "isEnabled": 1,
+    "description": "1B",
+    "price": "8.100,00"
+  },
+  {
+    "name": "SAL DEL HIMALAYA",
+    "isEnabled": 1,
+    "description": "1A",
+    "price": "1.152,00"
+  },
+  {
+    "name": "SAL MARINA",
+    "isEnabled": 1,
+    "description": "1C",
+    "price": "984,00"
+  },
+  {
+    "name": "SALVADO DE AVENA",
+    "isEnabled": 1,
+    "description": "1B",
+    "price": "1.320,00"
+  },
+  {
+    "name": "SALVADO DE TRIGO FINO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "432,00"
+  },
+  {
+    "name": "SALVIA DE LA PUNA (calma la tos, molestias en garganta, foralece el sist. inmune)",
+    "isEnabled": 1,
+    "description": "Antinflomotoria, antiseptico, antiespasmodico, analgesica, relajante y anciolitico. hipoglucemia\\n1E",
+    "price": "3.540,00"
+  },
+  {
+    "name": "SANGUINARIA (Trata infecciones respiratorias, asma, dolor de articulaciones.)",
+    "isEnabled": 1,
+    "description": "No se puede tomar en lactancia. o embarazo. 1 cucharada de la hierba en 1l de agua. Trata infecciones respiratorias, asma, dolor de articulaciones.\\nHIERBAS",
+    "price": "3.540,00"
+  },
+  {
+    "name": "SEMILLAS DE ZAPALLO",
+    "isEnabled": 1,
+    "description": "1B",
+    "price": "8.424,00"
+  },
+  {
+    "name": "SEN EN HOJAS (hemorroides,estre�imiento,antes de colonoscopia)",
+    "isEnabled": 1,
+    "description": "2A",
+    "price": "5.220,00"
+  },
+  {
+    "name": "SESAMO BLANCO",
+    "isEnabled": 1,
+    "description": "2A",
+    "price": "4.740,00"
+  },
+  {
+    "name": "SESAMO INTEGAL",
+    "isEnabled": 1,
+    "description": "1D",
+    "price": "3.540,00"
+  },
+  {
+    "name": "SESAMO NEGRO",
+    "isEnabled": 1,
+    "description": "2D",
+    "price": "5.100,00"
+  },
+  {
+    "name": "SOJA",
+    "isEnabled": 1,
+    "description": "2A",
+    "price": "540,00"
+  },
+  {
+    "name": "SOJA TEXTURIZADA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "444,00"
+  },
+  {
+    "name": "STEVIA EN HOJAS",
+    "isEnabled": 1,
+    "description": "2A\\n",
+    "price": "5.040,00"
+  },
+  {
+    "name": "TOMATE DESHIDRATADO",
+    "isEnabled": 1,
+    "description": "2A",
+    "price": "5.004,00"
+  },
+  {
+    "name": "YERBA BUENA (ayuda a mejorar los trastornos del sist digestivo, distensi�n abdominal, nauseas, indigestion, colon irritable, Colicos.)",
+    "isEnabled": 1,
+    "description": "Ayuda a mejorar los trastornos del sist digestivo, distensi�n abdominal, nauseas, indigestion, colon irritable, Colicos.\\nHIERBAS",
+    "price": "3.720,00"
+  },
+  {
+    "name": "YERBA DEL PAJARO (disenteria, flujo menstrual excesivo, trastornos pulmonores, bronquitis, ictericia, la vesicula y calculos renales. Astrigente, coagulante, diur�tico y expectorante)",
+    "isEnabled": 1,
+    "description": "Disenteria, flujo menstrual excesivo, trastornos pulmonores, bronquitis, ictericia, la vesicula y calculos renales. Astrigente, coagulante, diur�tico y expectorante. 3 tazas de te por dia.",
+    "price": "11.160,00"
+  },
+  {
+    "name": "YERBA DEL POLLO (depurativa de la sangre. descongestionante, diuretica, antiinflamatoria. malestares hepaticos, problemas renales)",
+    "isEnabled": 1,
+    "description": "Depurativa de la sangre. descongestionante, diuretica, antiinflamatoria. malestares hepaticos, problemas renales, diarrea en ni�os 1. cucharadita x laza.\\nHIERBAS",
+    "price": "4.104,00"
+  },
+  {
+    "name": "YERBA MEONA (diuretica males de ri�on, arenillas y calculos rendales)",
+    "isEnabled": 1,
+    "description": "Diretica males de ri�on, arenillas y calculos rendales. 1 cucharada x litro de agua, Tambien en mate, colocar el litro de te en el termo",
+    "price": "3.540,00"
+  },
+  {
+    "name": "ZARZA PARRILA (favorece la sudoracion y la orina,laxante,expectorante,depurativa)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.720,00"
+  },
+  {
+    "name": "ROMERO",
+    "isEnabled": 1,
+    "description": "2C",
+    "price": "3.660,00"
+  },
+  {
+    "name": "TE VERDE (mejorar la agilidad mental y el pensamiento, para perder peso y para el tratamiento de trastornos intestinales, los dolores de cabeza, la osteoporosis)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.896,00"
+  },
+  {
+    "name": "TE ROJO (diuretico,digestivo,adelgazante,concentracion,sist. inmunologico)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.848,00"
+  },
+  {
+    "name": "TOMILLO",
+    "isEnabled": 1,
+    "description": "2A",
+    "price": "8.016,00"
+  },
+  {
+    "name": "TRIGO BURGOL FINO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.500,00"
+  },
+  {
+    "name": "LINO",
+    "isEnabled": 1,
+    "description": "1D",
+    "price": "924,00"
+  },
+  {
+    "name": "JENGIBRE MOLIDO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "6.420,00"
+  },
+  {
+    "name": "NUECES",
+    "isEnabled": 1,
+    "description": "1D",
+    "price": "4.800,00"
+  },
+  {
+    "name": "ALMOHADITAS BOLSA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "600,00"
+  },
+  {
+    "name": "LINCOLN SIN TACC BIZCOCHUELO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "838,80"
+  },
+  {
+    "name": "LINCOLN SIN TACC RAVIOLES DE RICOTA  ACELGA (X12)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "958,80"
+  },
+  {
+    "name": "LINCOLN SIN TACC RAVIOLES DE JAMON Y QUESO (X12)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "958,80"
+  },
+  {
+    "name": "LINCOLN SIN TACC EMPANADAS DE JAMON Y QUESO (X3)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "720,00"
+  },
+  {
+    "name": "LINCOLN SIN TACC EMPANADAS DE POLLO (X3)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "720,00"
+  },
+  {
+    "name": "LINCOLN SIN TACC TARTA DE ZAPALLITO (16 CM)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "828,00"
+  },
+  {
+    "name": "LINCOLN SIN TACC TARTA DE CALABAZA (16 CM)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "828,00"
+  },
+  {
+    "name": "LINCOLN SIN TACC SANDWICH DE MIGA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.188,00"
+  },
+  {
+    "name": "LINCOLN SIN TACC CHIPS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "708,00"
+  },
+  {
+    "name": "LINCOLN SIN TACC PASTAFROLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "744,00"
+  },
+  {
+    "name": "LINCOLN SIN TACC PREPIZZA X 1",
+    "isEnabled": 1,
+    "description": "",
+    "price": "636,00"
+  },
+  {
+    "name": "CASA VEGANA FALAFEL DE GARBANZOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.560,00"
+  },
+  {
+    "name": "CASA VEGANA FALAFEL  THAI FRESH",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.560,00"
+  },
+  {
+    "name": "CASA VEGANA FALAFEL TIKKA MASALA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.560,00"
+  },
+  {
+    "name": "CASA VEGANA FALAFEL LENTEJAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.560,00"
+  },
+  {
+    "name": "CASA VEGANA ABDUKI HUNGARO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.320,00"
+  },
+  {
+    "name": "CASA VEGANA ADUKI REMOLACHA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.320,00"
+  },
+  {
+    "name": "CASA VEGANA AMARANTO ARROZ YAMANI",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.320,00"
+  },
+  {
+    "name": "CASA VEGANA LENTEJON CANADIENSE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.320,00"
+  },
+  {
+    "name": "CASA VEGANA MIJO ASIATICO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.320,00"
+  },
+  {
+    "name": "CASA VEGANA QUINOA AL CURRY HINDU",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.320,00"
+  },
+  {
+    "name": "CASA VEGANA QUINOA ANDINA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.320,00"
+  },
+  {
+    "name": "CASA VEGANA QUINOA MEDITERRANEA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.320,00"
+  },
+  {
+    "name": "CASA VEGANA GREEN MOON",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.320,00"
+  },
+  {
+    "name": "FELICES LAS VACAS BIG CLASSIC",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.260,00"
+  },
+  {
+    "name": "NOT BURGER",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.464,00"
+  },
+  {
+    "name": "NOT MILA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.320,00"
+  },
+  {
+    "name": "NOT CHIKEN MILA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.416,00"
+  },
+  {
+    "name": "NOT CHIKEN NUGGETS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.364,00"
+  },
+  {
+    "name": "NOT MAYO DOY PACK",
+    "isEnabled": 1,
+    "description": "",
+    "price": "756,00"
+  },
+  {
+    "name": "FRANUI",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.860,00"
+  },
+  {
+    "name": "MUNDO VEGETAL PREPIZZAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.644,00"
+  },
+  {
+    "name": "FRUTILLAS 250 GRS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "516,00"
+  },
+  {
+    "name": "CUARTO CRECIENTE MERMELADA HIGO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "816,00"
+  },
+  {
+    "name": "PIMENTON PREMIUM",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.720,00"
+  },
+  {
+    "name": "GERMEN DE TRIGO",
+    "isEnabled": 1,
+    "description": "1B",
+    "price": "300,00"
+  },
+  {
+    "name": "CHIMICHURRI",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.264,00"
+  },
+  {
+    "name": "CEDRON (propiedades antis�pticas, antiinflamatorias y sedantes)",
+    "isEnabled": 1,
+    "description": "2D",
+    "price": "8.016,00"
+  },
+  {
+    "name": "BURRITO (propiedades digestivas y sedantes,ansiol�ticas)",
+    "isEnabled": 1,
+    "description": "2B",
+    "price": "5.388,00"
+  },
+  {
+    "name": "TINTURA MADRE ARANDANO (Infecciones urinarias, diarreas, diabetes)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "804,00"
+  },
+  {
+    "name": "TINTURA MADRE CAF� VERDE (Adelgazante natural, ayuda a disminuir el colesterol)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.200,00"
+  },
+  {
+    "name": "TINTURA MADRE ACEROLA (Antigripal, diabetes, depurativo, defensas)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "804,00"
+  },
+  {
+    "name": "TINTURA MADRE YACON (Diabetes, digestiva, colesterol, adelgaz)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.200,00"
+  },
+  {
+    "name": "TINTURA MADRE ACORO (Disminuye el deseo de fumar)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "804,00"
+  },
+  {
+    "name": "TINTURA MADRE OLIVO (Presion alta)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "804,00"
+  },
+  {
+    "name": "TINTURA MADRE ORTIGA (Presion alta, prostata, piedras ri�on)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "804,00"
+  },
+  {
+    "name": "TINTURA MADRE CENTELLA ASIAT(Anticelulitico,cirulatiorio)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "804,00"
+  },
+  {
+    "name": "TINTURA MADRE COLA DE CABALLO (Diuretico, reuma, col.)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "864,00"
+  },
+  {
+    "name": "TINTURA MADRE PASIONARIA (Sedante)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "804,00"
+  },
+  {
+    "name": "TINTURA MADRE VALERIANA (Tranquilizante, insomnio, presion ne.)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "804,00"
+  },
+  {
+    "name": "TINTURA MADRE MELISA(Sedante,Relajante,Antiespasmodica)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "804,00"
+  },
+  {
+    "name": "DELICEL PREMEZCLA BIZCOCHUELO CHOCOLATE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.056,00"
+  },
+  {
+    "name": "YACON CAPSULAS PRODENZA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.220,00"
+  },
+  {
+    "name": "PESTO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.491,60"
+  },
+  {
+    "name": "SEMOLIN",
+    "isEnabled": 1,
+    "description": "",
+    "price": "984,00"
+  },
+  {
+    "name": "CASTA�AS DE CAJU",
+    "isEnabled": 1,
+    "description": "",
+    "price": "4.800,00"
+  },
+  {
+    "name": "DIENTE DE LEON (coler�tica, diur�tica y estimuladora del apetito)",
+    "isEnabled": 1,
+    "description": "2E\\n",
+    "price": "3.540,00"
+  },
+  {
+    "name": "DELICEL PREMEZCLA PARA �OQUIS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.440,00"
+  },
+  {
+    "name": "DO�A ROSA FIDEOS AL HUEVO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "474,60"
+  },
+  {
+    "name": "DO�A ROSA CASERITOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "610,20"
+  },
+  {
+    "name": "DO�A ROSA MOSTACHOL",
+    "isEnabled": 1,
+    "description": "",
+    "price": "433,90"
+  },
+  {
+    "name": "COMINO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.456,00"
+  },
+  {
+    "name": "CURRY",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.900,00"
+  },
+  {
+    "name": "HONGOS DE PINO",
+    "isEnabled": 1,
+    "description": "1E",
+    "price": "21.744,00"
+  },
+  {
+    "name": "MIL HOMBRES (Descongestiona y desinflama las articulaciones, calma dolores, poderoso diuretico)",
+    "isEnabled": 1,
+    "description": "2A",
+    "price": "4.284,00"
+  },
+  {
+    "name": "MIX FORTE",
+    "isEnabled": 1,
+    "description": "1D",
+    "price": "4.668,00"
+  },
+  {
+    "name": "POLEN (fuente de acido folico, vitamina B, D, E, K, A, FOSFORO, CALCIO, POTASIO, YODO, ZINC, COBRE, MAGNESIO Y SELENIO.)",
+    "isEnabled": 1,
+    "description": "Fuente de acido folico, vitamina B, D, E, K, A, FOSFORO, CALCIO, POTASIO, YODO, ZINC, COBRE, MAGNESIO Y SELENIO.",
+    "price": "9.360,00"
+  },
+  {
+    "name": "POROTOS NEGROS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "528,00"
+  },
+  {
+    "name": "POROTOS MUNG",
+    "isEnabled": 1,
+    "description": "",
+    "price": "540,00"
+  },
+  {
+    "name": "TINTURA MADRE BERENJENA (Diabetes, colesterol, corazon, digest)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "804,00"
+  },
+  {
+    "name": "TINTURA MADRE JENGIBRE (Antiinflamatoria, resfrios, digestiva)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "972,00"
+  },
+  {
+    "name": "TINTURA MADRE MANZANILLA (Digestivo, antiespasmodico, acidez)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "804,00"
+  },
+  {
+    "name": "TINTURA MADRE ZARZAPARRILLA (Reuma, retencion de liquidos)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "864,00"
+  },
+  {
+    "name": "LA SALTE�A EMPANADAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.008,00"
+  },
+  {
+    "name": "ARCOR �OQUIS PAPA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "311,90"
+  },
+  {
+    "name": "ARCOR �OQUIS ESPINACA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "311,90"
+  },
+  {
+    "name": "DO�A MAGDALENA DULCE DE LECHE PROTEIN",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.136,00"
+  },
+  {
+    "name": "DO�A MAGDALENA COCO VEGAN",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.388,00"
+  },
+  {
+    "name": "QUESTA�A QUESOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.056,00"
+  },
+  {
+    "name": "TINTURA MADRE PEZU�A DE VACA (Diuretica,diabetes)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.008,00"
+  },
+  {
+    "name": "YERBA MATE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.800,00"
+  },
+  {
+    "name": "CUARTO CRECIENTE DULCE DE MEMBRILLO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.200,00"
+  },
+  {
+    "name": "CUARTO CRECIENTE DULCE DE BATATA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.200,00"
+  },
+  {
+    "name": "SMAMS BUDIN CHIP DE CHOCOLATE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.416,00"
+  },
+  {
+    "name": "NUTRILEVA LEVADURA SAB. QUESO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.232,00"
+  },
+  {
+    "name": "NUTRILEVA LEVADURA SAB. NATURAL",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.848,00"
+  },
+  {
+    "name": "VINO VINECOL MALBEC",
+    "isEnabled": 1,
+    "description": 3,
+    "price": "2.520,00"
+  },
+  {
+    "name": "VINO LOS MEDANOS MALBEC",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.832,00"
+  },
+  {
+    "name": "VINO CHINCHERO MALBEC",
+    "isEnabled": 1,
+    "description": "2n",
+    "price": "2.712,00"
+  },
+  {
+    "name": "VINO TERRAVITA MALBEC ROBLE",
+    "isEnabled": 1,
+    "description": 2,
+    "price": "2.916,00"
+  },
+  {
+    "name": "VINO TERRAVITA MALBEC SIN SULFITOS",
+    "isEnabled": 1,
+    "description": "1(6);2(2)",
+    "price": "3.048,00"
+  },
+  {
+    "name": "MATARAZZO TIRABUZON",
+    "isEnabled": 1,
+    "description": "",
+    "price": "984,00"
+  },
+  {
+    "name": "CERAL ALFAJORES",
+    "isEnabled": 1,
+    "description": "",
+    "price": "408,00"
+  },
+  {
+    "name": "BIENVA ALFAJORES",
+    "isEnabled": 1,
+    "description": "",
+    "price": "168,00"
+  },
+  {
+    "name": "ANIMAL KIND ALFAJORES",
+    "isEnabled": 1,
+    "description": "",
+    "price": "312,00"
+  },
+  {
+    "name": "TE NEGRO (reduce el colesterol, prepara el aparato digestivo)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.656,00"
+  },
+  {
+    "name": "VEGANIS FACIAL ULTRA VITAL",
+    "isEnabled": 1,
+    "description": "",
+    "price": "4.092,00"
+  },
+  {
+    "name": "VEGANIS FACIAL NOCTURNA ANTIOXIDANTE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "4.392,00"
+  },
+  {
+    "name": "VEGANIS FACIAL DIA 30ML",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.540,00"
+  },
+  {
+    "name": "VEGANIS FACIAL ACIDO HIALURONICO SERUM",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.720,00"
+  },
+  {
+    "name": "VEGANIS DOYPACK LECHE SUPER CORRECTORA(COCO)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.412,00"
+  },
+  {
+    "name": "VEGANIS DOYPACK LECHE EXTRA HUMECTANTE(PALTA)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.412,00"
+  },
+  {
+    "name": "VEGANIS AC. ACIDO HIALURONICO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "4.104,00"
+  },
+  {
+    "name": "VEGANIS AC. MAQUI BERRY",
+    "isEnabled": 1,
+    "description": "",
+    "price": "4.104,00"
+  },
+  {
+    "name": "VEGANIS AC. COCO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "4.104,00"
+  },
+  {
+    "name": "VEGANIS AC. PALTA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "4.104,00"
+  },
+  {
+    "name": "VEGANIS SH. ACIDO HIALURONICO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "4.104,00"
+  },
+  {
+    "name": "VEGANIS SH. MAQUI BERRY",
+    "isEnabled": 1,
+    "description": "",
+    "price": "4.104,00"
+  },
+  {
+    "name": "VEGANIS SH. COCO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "4.104,00"
+  },
+  {
+    "name": "VEGANIS SH. PALTA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "4.104,00"
+  },
+  {
+    "name": "VEGANIS MASCARA CAPILAR MAQUI BERRY",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.108,00"
+  },
+  {
+    "name": "VEGANIS MASCARA CAPILAR PALTA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.108,00"
+  },
+  {
+    "name": "PURA SOAP BALSAMO LABIAL ALOE KARITE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.656,00"
+  },
+  {
+    "name": "PURA SOAP BALSAMO LABIAL VAINILLA COCO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.656,00"
+  },
+  {
+    "name": "PURA SOAP BALSAMO LABIAL FRUTILLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.656,00"
+  },
+  {
+    "name": "PURA SOAP BALSAMO LABIAL RASPBERRY",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.656,00"
+  },
+  {
+    "name": "PURA SOAP CREMA DE MANOS NEROLI BAMBOO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.328,00"
+  },
+  {
+    "name": "PURA SOAP CREMA DE MANOS COCO HAWAI",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.328,00"
+  },
+  {
+    "name": "PURA SOAP CREMA DE MANOS CASTA�A OLIVA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.328,00"
+  },
+  {
+    "name": "SRI SRI CEP. DENTAL DURO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "900,00"
+  },
+  {
+    "name": "SRI SRI CEP. DENTAL MEDIO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "900,00"
+  },
+  {
+    "name": "SRI SRI CEP. DENTAL SUAVE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "900,00"
+  },
+  {
+    "name": "SRI SRI CEP. DENTAL KIDS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "900,00"
+  },
+  {
+    "name": "NATIER OMEGA 3",
+    "isEnabled": 1,
+    "description": "-AYUDA A CONTROLAR EL NIVEL DE COLESTEROL DE BAJA DENSIDAD.\\n-MEJORA LA SALUD Y APARIENCIA DE LA PIEL\\n-MEJORA LOS PROCESOS DIGESTIVOS E INTESTINALES\\n-ACCI�N ANTIINFLAMATORIA GENERAL\\n-AYUDA A MEJORAR EL RENDIMIENTO MUSCULAR\\n-PREVIENE EL DETERIORO COGNITIVO",
+    "price": "15.900,00"
+  },
+  {
+    "name": "NATIER CENTELLA ASIATICA",
+    "isEnabled": 1,
+    "description": "-Tiene funci�n depurativa y detox\\n-Aporta firmeza y elasticidad a la piel\\n-Es una gran aliada contra la celulitis\\n-Mejora la acci�n venot�nica\\n-Actua como soporte circulatorio",
+    "price": "6.588,00"
+  },
+  {
+    "name": "PURA SOAP SHAMPOO SOLIDO ALOE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.816,00"
+  },
+  {
+    "name": "PURA SOAP SHAMPOO SOLIDO HAWAI",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.816,00"
+  },
+  {
+    "name": "PURA SOAP SHAMPOO SOLIDO ROMERO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.816,00"
+  },
+  {
+    "name": "DULCE LULU MERM. GRANDE NARANJA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "960,00"
+  },
+  {
+    "name": "DULCE LULU MERM. GRANDE MIX DULCE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.080,00"
+  },
+  {
+    "name": "DULCE LULU MERM. MINI STEVIA FRUTILLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "780,00"
+  },
+  {
+    "name": "DULCE LULU MERM. MINI STEVIA MIX DULCE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "540,00"
+  },
+  {
+    "name": "DULCE LULU MERM. GRANDE FRUTILLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.080,00"
+  },
+  {
+    "name": "DULCE LULU MERM. GRANDE FRUTOS ROJOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.080,00"
+  },
+  {
+    "name": "QUIMYA YOGURES SIN AZUCAR",
+    "isEnabled": 1,
+    "description": "",
+    "price": "564,00"
+  },
+  {
+    "name": "AGAR AGAR",
+    "isEnabled": 1,
+    "description": "",
+    "price": "600,00"
+  },
+  {
+    "name": "DR. CACAO 70%",
+    "isEnabled": 1,
+    "description": "",
+    "price": "648,00"
+  },
+  {
+    "name": "REINA VEGANA TOSTADAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "996,00"
+  },
+  {
+    "name": "SAN NICOLAS ACEITE DE OLIVA 250ML",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.232,00"
+  },
+  {
+    "name": "SAN NICOLAS ACEITE DE OLIVA 500ML",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.300,00"
+  },
+  {
+    "name": "FELICES LAS VACAS COLCHON DE FRUTAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "936,00"
+  },
+  {
+    "name": "COPOS BOLSA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "252,00"
+  },
+  {
+    "name": "DULCE LULU MERM. MINI MANDARINA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "540,00"
+  },
+  {
+    "name": "DULCE LULU MERM. MINI NARANJA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "420,00"
+  },
+  {
+    "name": "DULCE LULU MERM. MINI ANANA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "540,00"
+  },
+  {
+    "name": "DULCE LULU MERM. MINI MIX CITRICO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "540,00"
+  },
+  {
+    "name": "DULCE LULU MERM. MINI FRUTOS ROJOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "660,00"
+  },
+  {
+    "name": "DULCE LULU MERM. MINI MIX TROPICAL",
+    "isEnabled": 1,
+    "description": "",
+    "price": "540,00"
+  },
+  {
+    "name": "DULCE LULU MERM. GRANDE ANANA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "960,00"
+  },
+  {
+    "name": "DULCE LULU MERM. GRANDE PERA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "960,00"
+  },
+  {
+    "name": "DULCE LULU MERM. GRANDE MANZANA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "960,00"
+  },
+  {
+    "name": "DULCE LULU MERM. GRANDE MIX CITRICO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.080,00"
+  },
+  {
+    "name": "DULCE LULU MERM. GRANDE DURAZNO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.080,00"
+  },
+  {
+    "name": "DULCE LULU MERM. MINI STEVIA MIX TROPICAL",
+    "isEnabled": 1,
+    "description": "",
+    "price": "540,00"
+  },
+  {
+    "name": "POLEO (propiedades estomacales, carminativas y antiespasm�dicas,emenagogo)",
+    "isEnabled": 1,
+    "description": "2A",
+    "price": "5.388,00"
+  },
+  {
+    "name": "GELL SINGH SALSA DE SOJA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "444,00"
+  },
+  {
+    "name": "BLUE PATNA FETTUCCINI",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.896,00"
+  },
+  {
+    "name": "LADDU BAR BARRITAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "420,00"
+  },
+  {
+    "name": "VINO VINECOL CABERNET SAUVIGNON",
+    "isEnabled": 1,
+    "description": 3,
+    "price": "2.520,00"
+  },
+  {
+    "name": "TE HIERBAS DEL OASIS CARQUEJA (Hepatoprotectora, digestiva, afrodisiaca)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "720,00"
+  },
+  {
+    "name": "TE HIERBAS DEL OASIS ARABIA ( Jengibre,menta,cascara de naranja y limon)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "972,00"
+  },
+  {
+    "name": "TE HIERBAS DEL OASIS MARRUECOS (Te verde,menta,damasco)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "972,00"
+  },
+  {
+    "name": "TE HIERBAS DEL OASIS JAMAICA (Menta,hibisco,cascara de naranja)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "972,00"
+  },
+  {
+    "name": "TE HIERBAS DEL OASIS INDIA (Cardamomo,canela,pimienta de jamaica)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.200,00"
+  },
+  {
+    "name": "TE HIERBAS DEL OASIS ARTRITIS N�9 (Apio,cardo bendito,ortiga,zarzaparrilla)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "966,00"
+  },
+  {
+    "name": "TE HIERBAS DEL OASIS ASIA (Te verde,anis,jengibre)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "972,00"
+  },
+  {
+    "name": "TE HIERBAS DEL OASIS ENCUENTROS (Naranja,canela,pimienta de jamaica)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "984,00"
+  },
+  {
+    "name": "TE HIERBAS DEL OASIS AFRICA (Melisa,coriandro,tomillo,cedron)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "972,00"
+  },
+  {
+    "name": "ANIMAL KIND CHOCO NUT",
+    "isEnabled": 1,
+    "description": "",
+    "price": "432,00"
+  },
+  {
+    "name": "DULCE LULU MERM. MED. FRUTILLA STEVIA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "540,00"
+  },
+  {
+    "name": "DULCE LULU MERM. MED. MIX ROJO STEVIA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "540,00"
+  },
+  {
+    "name": "DULCE LULU MERM. MINI FRUTILLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "660,00"
+  },
+  {
+    "name": "DULCE LULU MERM. MINI STEVIA FRUTOS ROJOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "660,00"
+  },
+  {
+    "name": "DULCE LULU MERM. MINI STEVIA MIX ROJOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "780,00"
+  },
+  {
+    "name": "DULCE LULU MERM. MINI MIX ROJO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "540,00"
+  },
+  {
+    "name": "LA FRANCIA COOKIES NARANJA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "744,00"
+  },
+  {
+    "name": "BLANCAFLOR PREMEZ. PAN Y PIZZA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.020,00"
+  },
+  {
+    "name": "BLANCAFLOR PREMEZ. CHIPA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "768,00"
+  },
+  {
+    "name": "COPANI 80% CON ALMENDRAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.380,00"
+  },
+  {
+    "name": "COPANI 70% MIX FRUTOS SECOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.440,00"
+  },
+  {
+    "name": "OKAJE KEFIR",
+    "isEnabled": 1,
+    "description": "",
+    "price": "504,00"
+  },
+  {
+    "name": "VINO QUINDE ESPUMANTE BLANCO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "5.244,00"
+  },
+  {
+    "name": "VINO REDPURO ROSE",
+    "isEnabled": 1,
+    "description": 4,
+    "price": "3.720,00"
+  },
+  {
+    "name": "DICOMERE POLVO PARA HORNEAR",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.848,00"
+  },
+  {
+    "name": "DICOMERE HARINA DE TRIGO SARRACENO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.236,00"
+  },
+  {
+    "name": "PROCAL AROMA DE AZHAR",
+    "isEnabled": 1,
+    "description": "",
+    "price": "258,00"
+  },
+  {
+    "name": "CUOCA FLAUTIN",
+    "isEnabled": 1,
+    "description": "",
+    "price": "864,00"
+  },
+  {
+    "name": "CUOCA PREPIZZA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "828,00"
+  },
+  {
+    "name": "CUOCA EMPANADAS CARNE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.680,00"
+  },
+  {
+    "name": "CUOCA SANDWICH DE MIGA x3",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.500,00"
+  },
+  {
+    "name": "CUOCA PIONONO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "708,00"
+  },
+  {
+    "name": "CUOCA RAVIOLES X48",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.052,00"
+  },
+  {
+    "name": "CUOCA SORRENTINOS X12",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.400,00"
+  },
+  {
+    "name": "CUOCA FIDEOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.440,00"
+  },
+  {
+    "name": "CUOCA PASTAFROLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "9.300,00"
+  },
+  {
+    "name": "CUOCA PREPIZZA CEBOLLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "828,00"
+  },
+  {
+    "name": "CUOCA FACTURAS X3",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.008,00"
+  },
+  {
+    "name": "CUOCA EMPANADAS JYQ",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.680,00"
+  },
+  {
+    "name": "ARANDANOS C/ CHOCO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "4.200,00"
+  },
+  {
+    "name": "GARRAPI�ADA DE GIRASOL",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.440,00"
+  },
+  {
+    "name": "DULCE LULU MERM. MINI HIGOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "540,00"
+  },
+  {
+    "name": "DULCE LULU MERM. GRANDE MIX TROPICAL",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.080,00"
+  },
+  {
+    "name": "MIX NAVIDE�O",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.440,00"
+  },
+  {
+    "name": "MIX FIESTAS(almendras,arandanos,garrapi�ada girasol,pasas)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.440,00"
+  },
+  {
+    "name": "CUOCA SANDWICH DE MIGA X2",
+    "isEnabled": 1,
+    "description": "",
+    "price": "984,00"
+  },
+  {
+    "name": "EXQUISITA VAINILLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "732,00"
+  },
+  {
+    "name": "DULCE LULU MERM. GRANDE MIX ROJO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.080,00"
+  },
+  {
+    "name": "TINTURA MADRE EQUINACEA(fortalece el sist. inmune)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.584,00"
+  },
+  {
+    "name": "KROL ACEITE DE CANOLA X250",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.800,00"
+  },
+  {
+    "name": "CUOCA PAN DE HAMBURGUESA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "864,00"
+  },
+  {
+    "name": "WAKAS PASTA AMARANTO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.020,00"
+  },
+  {
+    "name": "DICOMERE SPYLLIUM HUSK",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.996,00"
+  },
+  {
+    "name": "SRI SRI PASTA DENTAL AYURVEDICA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.960,00"
+  },
+  {
+    "name": "NATIER SPIRULINA",
+    "isEnabled": 1,
+    "description": "-Disminuir el colesterol\\n-Reducir el riesgo de c�ncer.\\n-Estimular el sistema inmunol�gico.\\n-Reducir la toxicidad renal.\\n-Mejorar la cicatrizaci�n de heridas.\\n-Eliminar la mala nutrici�n.",
+    "price": "7.224,00"
+  },
+  {
+    "name": "NATIER CAFE VERDE",
+    "isEnabled": 1,
+    "description": "-Genera sensaci�n de saciedad natural\\n-Contribuye a estimular el metabolismo\\n-Incrementa el procesamiento de grasas\\n-No contiene sustancias sint�ticas",
+    "price": "5.880,00"
+  },
+  {
+    "name": "NATIER CALCIO + D3",
+    "isEnabled": 1,
+    "description": "-Mejora la salud �sea y dental\\n-Su contenido en Vitamina D mejora su absorci�n\\n-Previene la osteoporosis\\n-Act�a como estimulante circulatorio y cardiovascular",
+    "price": "6.276,00"
+  },
+  {
+    "name": "NATIER MAGNESIO",
+    "isEnabled": 1,
+    "description": "Puede ayudar a regular el ritmo card�aco, mantener la presi�n arterial y mejorar la funci�n cerebral. Tambi�n puede aliviar los s�ntomas del s�ndrome premenstrual y la ansiedad.",
+    "price": "7.728,00"
+  },
+  {
+    "name": "NATIER GINKO BILOBA",
+    "isEnabled": 1,
+    "description": "-alivia v�rtigos, mareos y calambres y sensaci�n de fr�o en las piernas.\\n-regula la permeabilidad de los capilares sangu�neos y reducen la viscosidad de la sangre.\\n-Tiene actividad antioxidante debido a su contenido en polifenoles.\\n-act�a como vasodilatador perif�rico, protege los capilares aumentando su resistencia,reduciendo su permeabilidad, act�a como diur�tico.\\n-tratamiento del mal de Alzheimer, la demencia senil y la enfermedad de Parkinson.",
+    "price": "6.588,00"
+  },
+  {
+    "name": "NATIER RESVERATROL",
+    "isEnabled": 1,
+    "description": "propiedades antioxidantes,antiinflamatorias, protecci�n cardiovascular, mejora cognitiva, prevenci�n del c�ncer y propiedades anti-envejecimiento",
+    "price": "7.884,00"
+  },
+  {
+    "name": "NATIER ACEITE DE OREGANO",
+    "isEnabled": 1,
+    "description": "Propiedades antimicrobianas, antiinflamatorias, antioxidantes, y puede mejorar la salud digestiva,anti-cancer�genas y anti-envejecimiento",
+    "price": "13.356,00"
+  },
+  {
+    "name": "ORGANIKAL HIBISCUS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.908,00"
+  },
+  {
+    "name": "MAYADEVI SAL MARINA FINA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "444,00"
+  },
+  {
+    "name": "MAYADEVI SAL MARINA GRUESA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "708,00"
+  },
+  {
+    "name": "DULCE LULU MERM. MINI STEVIA HIGO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "540,00"
+  },
+  {
+    "name": "DULCE LULU MERM. MINI STEVIA CIRUELA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "480,00"
+  },
+  {
+    "name": "DULCE LULU MERM. MINI CIRUELA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "480,00"
+  },
+  {
+    "name": "DULCE LULU MERM. GRANDE HIGO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "780,00"
+  },
+  {
+    "name": "MATARAZZO INTEGRAL TIRABUZON",
+    "isEnabled": 1,
+    "description": "",
+    "price": "816,00"
+  },
+  {
+    "name": "IRONBAR",
+    "isEnabled": 1,
+    "description": "",
+    "price": "624,00"
+  },
+  {
+    "name": "NAPUS ACEITE DE COCO 660CC",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.624,00"
+  },
+  {
+    "name": "ENTRE NUTS ACEITE DE COCO NEUTRO 200CC",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.692,00"
+  },
+  {
+    "name": "ENTRE NUTS ACEITE DE COCO VIRGEN 200CC",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.172,00"
+  },
+  {
+    "name": "LATTE CHOCOLATE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "720,00"
+  },
+  {
+    "name": "PARRILLADA VEGANA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "6.720,00"
+  },
+  {
+    "name": "MATARAZZO INTEGRAL SPAGHETTI",
+    "isEnabled": 1,
+    "description": "",
+    "price": "816,00"
+  },
+  {
+    "name": "DULCE LULU MERM. GRANDE MANDARINA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "960,00"
+  },
+  {
+    "name": "DULCE LULU MERM. GRANDE POMELO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "960,00"
+  },
+  {
+    "name": "DULCE LULU MERM. GRANDE CIRUELA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "960,00"
+  },
+  {
+    "name": "DULCE LULU MERM. GRANDE ZAPALLO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "960,00"
+  },
+  {
+    "name": "DULCE LULU MERM. GRANDE TOMATE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "960,00"
+  },
+  {
+    "name": "DULCE LULU MERM. GRANDE DAMASCO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.080,00"
+  },
+  {
+    "name": "DULCE LULU MERM. GRANDE QUINOTOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "960,00"
+  },
+  {
+    "name": "DULCE LULU MERM. MINI POMELO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "540,00"
+  },
+  {
+    "name": "DULCE LULU MERM. MINI MANZANA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "540,00"
+  },
+  {
+    "name": "DULCE LULU MERM. MINI PERA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "540,00"
+  },
+  {
+    "name": "DULCE LULU MERM. MINI DURAZNO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "540,00"
+  },
+  {
+    "name": "DULCE LULU MERM. MINI MIX DULCE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "540,00"
+  },
+  {
+    "name": "DULCE LULU MERM. MINI ZAPALLO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "540,00"
+  },
+  {
+    "name": "DULCE LULU MERM. MINI TOMATE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "540,00"
+  },
+  {
+    "name": "DULCE LULU MERM. MINI DAMASCO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "540,00"
+  },
+  {
+    "name": "DULCE LULU MERM. MINI KINOTOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "540,00"
+  },
+  {
+    "name": "TRINI MANJAR DE LECHE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.452,00"
+  },
+  {
+    "name": "TRINI GALLETITAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "780,00"
+  },
+  {
+    "name": "LOS AMIGOS MIEL X250",
+    "isEnabled": 1,
+    "description": "",
+    "price": "540,00"
+  },
+  {
+    "name": "LOS AMIGOS MIEL CON ALMENDRAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.992,00"
+  },
+  {
+    "name": "LOS AMIGOS MIEL MEDICINAL",
+    "isEnabled": 1,
+    "description": "",
+    "price": "996,00"
+  },
+  {
+    "name": "LOS AMIGOS DULCE COLONIAL",
+    "isEnabled": 1,
+    "description": "",
+    "price": "804,00"
+  },
+  {
+    "name": "TE HIERBAS DEL OASIS CIRCULATORIA N�5 (ginko biloba, poleo, zarzaparrilla)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.116,00"
+  },
+  {
+    "name": "TINTURA MADRE TILO (sedante, antiespasmodico)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "864,00"
+  },
+  {
+    "name": "ESTIGMA DE MAIZ(poderoso diuretico)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "5.568,00"
+  },
+  {
+    "name": "BOLDO",
+    "isEnabled": 1,
+    "description": "2B",
+    "price": "11.148,00"
+  },
+  {
+    "name": "ENTRE NUTS MIEL",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.224,00"
+  },
+  {
+    "name": "SOL AZTECA ACEITE DE SESAMO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.704,00"
+  },
+  {
+    "name": "SOL AZTECA ACEITE DE CHIA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.676,00"
+  },
+  {
+    "name": "VINO QUINDE MALBEC SIN SULFITOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "4.728,00"
+  },
+  {
+    "name": "HEREDIA ESPECIAS N63",
+    "isEnabled": 1,
+    "description": "",
+    "price": "888,00"
+  },
+  {
+    "name": "HEREDIA ESPECIAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "804,00"
+  },
+  {
+    "name": "TRINI CARAMELOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "8.352,00"
+  },
+  {
+    "name": "GRUN CRACKERS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "552,00"
+  },
+  {
+    "name": "JUAL STEVIA LIQUIDA X600",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.784,00"
+  },
+  {
+    "name": "PURA FRUTTA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "240,00"
+  },
+  {
+    "name": "QUINOA NEGRA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.040,00"
+  },
+  {
+    "name": "QUINOA ROJA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.872,00"
+  },
+  {
+    "name": "DICOMERE SOJA TEXTURIZADA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "672,00"
+  },
+  {
+    "name": "DICOMERE ARVEJA TEXTURIZADA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "888,00"
+  },
+  {
+    "name": "NATIER CITRATO DE MAGNESIO",
+    "isEnabled": 1,
+    "description": "-Ayuda a la relajaci�n y contracci�n muscular\\n-F�rmula de mayor biodisponibilidad y absorci�n\\n-Estimula la creaci�n de hueso Ayuda a regular el stress, ansiedad e insomnio",
+    "price": "15.420,00"
+  },
+  {
+    "name": "NATIER CURCUMA + PIM. NEGRA",
+    "isEnabled": 1,
+    "description": "-ACTIVA EL SISTEMA INMUNILOGICO\\n-MEJORA LOS PROCESOS ANTIIFLAMATORIOS\\n- POSEE PROPIEDADES ANTIVIRALES Y ANTICEPTICAS\\n-AUMENTA LA VITALIDAD\\n-MEJORA LA FUNCI�N CIRCULATORIA Y CARDIOVASCULAR",
+    "price": "8.400,00"
+  },
+  {
+    "name": "SAVONAFIT AZUCAR DE COCO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.120,00"
+  },
+  {
+    "name": "HEREDIA INFUSIONES(hibiscus, enebro, te verde)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.284,00"
+  },
+  {
+    "name": "HEREDIA INFUSIONES(curcuma y jengibre)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.260,00"
+  },
+  {
+    "name": "HEREDIA INFUSIONES(mate, limon y naranja)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.452,00"
+  },
+  {
+    "name": "HEREDIA INFUSIONES(rooibos y jengibre)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.260,00"
+  },
+  {
+    "name": "HEREDIA INFUSIONES(surtido magico)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.188,00"
+  },
+  {
+    "name": "THE BLENDERS FRUIT MAGIC(rosa mosqueta,hibiscus,manzana,lemongrass,cascaras de naranja,mango)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.440,00"
+  },
+  {
+    "name": "THE BLENDERS CHOCOLATE CHAI(te negro ceylon,jengibre,cacao,clavo de olor,canela,cardamomo,chocolate)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.440,00"
+  },
+  {
+    "name": "THE BLENDERS BERRY LADY(te negro ceylon,rosa mosqueta,hibiscus,cereza,frutilla,frambuesa,arandano)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.344,00"
+  },
+  {
+    "name": "THE BLENDERS PASSION FRUIT JOY(te verde sencha,cascara de manzana y maracuya)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.200,00"
+  },
+  {
+    "name": "THE BLENDERS GINGER BEE(te verde sencha,jengibre, cascara de limon, miel)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.260,00"
+  },
+  {
+    "name": "THE BLENDERS THE CHOICE(mix)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.380,00"
+  },
+  {
+    "name": "HEREDIA INFUSIONES(wang lee)",
+    "isEnabled": 1,
+    "description": "ADELGAZANTE\\n",
+    "price": "1.104,00"
+  },
+  {
+    "name": "HEREDIA INFUSIONES(herby)",
+    "isEnabled": 1,
+    "description": "DIGESTIVO\\n",
+    "price": "1.056,00"
+  },
+  {
+    "name": "HEREDIA INFUSIONES(noche)",
+    "isEnabled": 1,
+    "description": "DESCANSO\\n",
+    "price": "1.320,00"
+  },
+  {
+    "name": "JARABE DE GRAVIOLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "5.712,00"
+  },
+  {
+    "name": "JUAL STEVIA LIQUIDA X125",
+    "isEnabled": 1,
+    "description": "",
+    "price": "900,00"
+  },
+  {
+    "name": "INTEGRA NACHOS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "912,00"
+  },
+  {
+    "name": "GRANOLA ORIGINAL",
+    "isEnabled": 1,
+    "description": "AVENA,MIEL,CASTAAS,ALMENDRAS,NUECES,COCO,GIRASOL,LINO,AZUCAR RUBIA.",
+    "price": "864,00"
+  },
+  {
+    "name": "HAVANNAH 70%",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.128,00"
+  },
+  {
+    "name": "ALCARAZ GOURMET SALSA DE SOJA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.380,00"
+  },
+  {
+    "name": "NOT MILK",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.164,00"
+  },
+  {
+    "name": "HAVANNA ALFAJORES",
+    "isEnabled": 1,
+    "description": "",
+    "price": "780,00"
+  },
+  {
+    "name": "JUAL STEVIA LIQUIDA X250",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.452,00"
+  },
+  {
+    "name": "MERMIDIET DURAZNO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.080,00"
+  },
+  {
+    "name": "MERMIDIET FRUTILLA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.260,00"
+  },
+  {
+    "name": "MERMIDIET NARANJA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.020,00"
+  },
+  {
+    "name": "TOSTADAS CERAL 4 SEMILLAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "624,00"
+  },
+  {
+    "name": "TOSTADAS CERAL CON CHIA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "612,00"
+  },
+  {
+    "name": "TOSTADAS CERAL MESA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "552,00"
+  },
+  {
+    "name": "TOSTADAS CERAL SIN SAL",
+    "isEnabled": 1,
+    "description": "",
+    "price": "552,00"
+  },
+  {
+    "name": "ENTRE NUTS PASTA DE MANI",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.224,00"
+  },
+  {
+    "name": "GRUN GRISINES",
+    "isEnabled": 1,
+    "description": "",
+    "price": "804,00"
+  },
+  {
+    "name": "CUOCA ALFAJOR DE MAICENA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "936,00"
+  },
+  {
+    "name": "CUOCA PAN DE MOLDE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.400,00"
+  },
+  {
+    "name": "CERAL GALLETITAS ALGARROBA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "576,00"
+  },
+  {
+    "name": "DULCE LULU CONGELADOS(arandanos)",
+    "isEnabled": 1,
+    "description": "1300 kg\\n700 1/2 kg",
+    "price": "2.640,00"
+  },
+  {
+    "name": "DULCE LULU CONGELADOS(kiwi)",
+    "isEnabled": 1,
+    "description": "2100 kg\\n1100 1/2 kg\\n",
+    "price": "3.240,00"
+  },
+  {
+    "name": "HAVANNETS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "624,00"
+  },
+  {
+    "name": "DULCE LULU CONGELADOS(espinaca)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.040,00"
+  },
+  {
+    "name": "DULCE LULU CONGELADOS(palta)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "5.040,00"
+  },
+  {
+    "name": "DULCE LULU CONGELADOS(frutilla)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.400,00"
+  },
+  {
+    "name": "AGLU REBOZADOR",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.188,00"
+  },
+  {
+    "name": "ABUCEL ALMIDON DE MAIZ",
+    "isEnabled": 1,
+    "description": "",
+    "price": "924,00"
+  },
+  {
+    "name": "KROL ACEITE DE CANOLA X500",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.304,00"
+  },
+  {
+    "name": "DHARAM SING SAL SIN SODIO X140",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.724,00"
+  },
+  {
+    "name": "MACA ROJA",
+    "isEnabled": 1,
+    "description": "2D",
+    "price": "4.572,00"
+  },
+  {
+    "name": "TE JAZMIN",
+    "isEnabled": 1,
+    "description": "",
+    "price": "804,00"
+  },
+  {
+    "name": "YERBA DULCE",
+    "isEnabled": 1,
+    "description": "1B",
+    "price": "8.940,00"
+  },
+  {
+    "name": "ERYTRITOL X200 OH YEAH ITS VEGAN X200",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.756,00"
+  },
+  {
+    "name": "SANTA MARIA REBOZADOR",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.404,00"
+  },
+  {
+    "name": "ORGANIKAL NIBS DE CACAO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.560,00"
+  },
+  {
+    "name": "ORGANIKAL CURCUMA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.428,00"
+  },
+  {
+    "name": "NATIER HIERRO QUELADO(anemia)",
+    "isEnabled": 1,
+    "description": "-AYUDA EN LA PRODUCCI�N DE GL�BULOS ROJOS (S�NTESIS DE HEMOGLOBINA)\\n-CONTRIBUYE A MEJORAR LAS DEFENSAS\\n-CONTRIBUYE A LA FORMACI�N DE ENZIMAS DIGESTIVAS\\n-NO CONTIENE CONSERVANTES NI ADITIVOS SINT�TICOS",
+    "price": "9.804,00"
+  },
+  {
+    "name": "NATIER TRIPTOFANO",
+    "isEnabled": 1,
+    "description": "-AYUDA A MEJORAR LA CALIDAD DE SUE�O\\n-CONTRIBUYE A MEJORAR EL ESTADO DE ANIMO\\n-AYUDA A MEJORAR LA SALUD COGNITIVA\\n-ACT�A COMO SOPORTE DURANTE EL S�NDROME PREMENSTRUAL\\n-NO CONTIENE CONSERVANTES NI ADITIVOS SINT�TICOS",
+    "price": "7.620,00"
+  },
+  {
+    "name": "NATIER GLUTATION(antioxidante natural)",
+    "isEnabled": 1,
+    "description": "-Compuesto por tres amino�cidos: ciste�na, glicina y �cido glut�mico.\\n-Su funci�n principal es aumentar la utilizaci�n y el reciclaje de otros antioxidantes.\\n-Es esencial para el cuerpo, al igual que el sodio, la glucosa, el potasio y el colesterol.\\n-Su producci�n en el h�gado es limitada, por lo que debemos obtenerlo de nuestra dieta.\\n-Es conocido como ''antioxidante end�geno'' y protege las c�lulas de la oxidaci�n.\\n-Tambi�n participa en la metabolizaci�n de la energ�a y el funcionamiento del sistema inmunol�gico.",
+    "price": "19.884,00"
+  },
+  {
+    "name": "NATIER VITAMINA K12 + D3(huesos y dientes sanos)",
+    "isEnabled": 1,
+    "description": "-AYUDA A PROTEGER EL CORAZ�N\\n-AYUDA PREVENIR ENFERMEDADES DEGENERATIVAS\\n-CONTRIBUYE A BRINDAR SOPORTE A LA FORMACI�N DE HUESOS\\n-AYUDA A MEJORAR LA SALUD DENTAL\\n-NO CONTIENE CONSERVANTES NI ADITIVOS SINT�TICOS",
+    "price": "10.464,00"
+  },
+  {
+    "name": "NATIER VINAGRE DE MANZANA",
+    "isEnabled": 1,
+    "description": "-AYUDA A MEJORAR LOS PROCESOS DIGESTIVOS\\n-AYUDA CONTROLAR LOS NIVELES DE AZ�CAR EN SANGRE\\n-CONTRIBUYE A BRINDAR SENSACI�N DE SACIEDAD\\n-AYUDA A MEJORAR LA INFLAMACI�N ABDOMINAL\\n-ORG�NICO SIN FILTRAR CON VITAMINA C",
+    "price": "4.356,00"
+  },
+  {
+    "name": "AGUA MISCELAR",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.352,00"
+  },
+  {
+    "name": "HAVANNA VEGANO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.128,00"
+  },
+  {
+    "name": "DULCE LULU CONGELADOS(wok de verdura)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.000,00"
+  },
+  {
+    "name": "LA FRANCIA COOKIES VAINILLA Y PASAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "744,00"
+  },
+  {
+    "name": "LA FRANCIA COOKIES ALGARROBA Y LINO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "744,00"
+  },
+  {
+    "name": "LA FRANCIA COOKIES CHOCO Y MANI",
+    "isEnabled": 1,
+    "description": "",
+    "price": "744,00"
+  },
+  {
+    "name": "LA FRANCIA COOKIES LIMON",
+    "isEnabled": 1,
+    "description": "",
+    "price": "744,00"
+  },
+  {
+    "name": "SMAMS BUDIN SIN AZUCAR MARMOLADO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.488,00"
+  },
+  {
+    "name": "COLONIAL CHOCOLATIN",
+    "isEnabled": 1,
+    "description": "",
+    "price": "108,00"
+  },
+  {
+    "name": "NATIER PROBIOTICO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "19.284,00"
+  },
+  {
+    "name": "SANTA MARIA SCONS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "924,00"
+  },
+  {
+    "name": "SOY ARROZ CABELLO DE ANEGL",
+    "isEnabled": 1,
+    "description": "",
+    "price": "768,00"
+  },
+  {
+    "name": "ZEOLITA OH YEAH ITS VEGAN",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.720,00"
+  },
+  {
+    "name": "HEREDIA INFUSIONES (fem)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.320,00"
+  },
+  {
+    "name": "SMAMS BUDIN LIMON",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.416,00"
+  },
+  {
+    "name": "INCAYUYO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "5.940,00"
+  },
+  {
+    "name": "HAVANNA SEMILIA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.128,00"
+  },
+  {
+    "name": "BIOACTIVA ACEITE DE CANNABIS 40% VIA ORAL",
+    "isEnabled": 1,
+    "description": "",
+    "price": "4.044,00"
+  },
+  {
+    "name": "BIOACTIVA PARA MASAJES",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.048,00"
+  },
+  {
+    "name": "BIOACTIVA CREMA ANALGESICA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.540,00"
+  },
+  {
+    "name": "GLUTEN DE TRIGO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "8.940,00"
+  },
+  {
+    "name": "BRU CAFE CON LECHE DE ALMENDRAS",
+    "isEnabled": 1,
+    "description": "",
+    "price": "780,00"
+  },
+  {
+    "name": "PURA FRUTTA 1L",
+    "isEnabled": 1,
+    "description": "",
+    "price": "948,00"
+  },
+  {
+    "name": "PURA FRUTTA DETOX",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.044,00"
+  },
+  {
+    "name": "NATIER RELAX BLEND",
+    "isEnabled": 1,
+    "description": "",
+    "price": "7.236,00"
+  },
+  {
+    "name": "NATIER NOBLE APICULTOR POLEN",
+    "isEnabled": 1,
+    "description": "",
+    "price": "5.628,00"
+  },
+  {
+    "name": "VEGANIS NOCTURNA NUTRITIVA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.540,00"
+  },
+  {
+    "name": "VEGANIS DOYPACK DE LECHE EXTRA HUMECTANTE(NEROLI)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.412,00"
+  },
+  {
+    "name": "VEGANIS DOYPACK DE LECHE EXTRA HUMECTANTE(PERA)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.412,00"
+  },
+  {
+    "name": "SRI SRI GEL DENTAL",
+    "isEnabled": 1,
+    "description": "",
+    "price": "3.912,00"
+  },
+  {
+    "name": "SOY ARROZ TOFU",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.680,00"
+  },
+  {
+    "name": "MUECAS CHOCOLATE 71% CACAO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.500,00"
+  },
+  {
+    "name": "CUARTO CRECINTE MERMELADA ARANDANO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.608,00"
+  },
+  {
+    "name": "COLONIAL CHIPS DE CHOCO",
+    "isEnabled": 1,
+    "description": "",
+    "price": "4.800,00"
+  },
+  {
+    "name": "ABUCEL FECULA DE MANDIOCA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "2.736,00"
+  },
+  {
+    "name": "DULCE LULU CONGELADOS(frutos rojos)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "4.440,00"
+  },
+  {
+    "name": "BLUE PATNA MOSTACHOL",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.896,00"
+  },
+  {
+    "name": "HAVANNA SUPER DULCE DE LECHE",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.128,00"
+  },
+  {
+    "name": "MATARAZZO MIX DE LEGUMBRES",
+    "isEnabled": 1,
+    "description": "",
+    "price": "1.176,00"
+  },
+  {
+    "name": "TE HIERBAS DEL OASIS ANTIDIABETICO N�12 (ortiga, eucalipto, alfalfa, achicoria)",
+    "isEnabled": 1,
+    "description": "",
+    "price": "936,00"
+  },
+  {
+    "name": "SEMILLAS BOLSITA",
+    "isEnabled": 1,
+    "description": "",
+    "price": "540,00"
+  }
+]
