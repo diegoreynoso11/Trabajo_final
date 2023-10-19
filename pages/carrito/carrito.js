@@ -1,6 +1,7 @@
 //JSON.parse(localStorage.getItem("carrito")) ||
-let carrito =  {};
+let carrito = JSON.parse(localStorage.getItem("carrito")) || {};
 const total = document.getElementById("total");
+const cantidadProductos = document.getElementById("cantidadProductos");
 function agregarAlCarrito(listItem) {
   var cartItem = {
     id: listItem.id,
@@ -14,40 +15,107 @@ function agregarAlCarrito(listItem) {
   }
   carrito[cartItem.id] = { ...cartItem };
   localStorage.setItem("carrito", JSON.stringify(carrito));
-  // console.log(carrito)
 }
-let totalProducto = 0;
-for (let item in carrito) {
-  // console.log(carrito);
-  const carritoLista = document.querySelector("#carrito");
-  const newLi = document.createElement("li");
-  let subtotal = Number(carrito[item].price) * carrito[item].quantity;
-  totalProducto += subtotal;
-  console.log(carrito);
-  newLi.innerHTML = `
-                    <li id="${carrito[item].id}" class=li-carrito>
-                    <h2 class="h1-carrito">${carrito[item].title}</h2>
+function nuevoElemento() {
+  for (let item in carrito) {
+    const nPrecio = Number(carrito[item].price) * carrito[item].quantity
+    const carritoLista = document.querySelector("#carrito");
+    const newLi = document.createElement("li");
+    newLi.innerHTML = `
+  <li id="${carrito[item].id}" class=li-carrito>
+                    <h1 class="h1-carrito">${carrito[item].title}</h1>
                     <img class="li-img-carrito" src="${
                       carrito[item].thumbnail
                     }" title="${carrito[item].title}" alt="${
-    carrito[item].title
-  }">
-            <p>$ ${carrito[item].price} </p>
-            <p>Cantidad : ${carrito[item].quantity} </p>
+      carrito[item].title
+    }">
+  <p>$ ${carrito[item].price} </p>
+            <span>Cantidad : </span><p class="quantity">${
+              carrito[item].quantity
+            } </p>
             <div class="btn-sum-res">
-            <button>+</button>
-            <button>-</button>
+            <button class="mas" id="${carrito[item].id}-mas">+</button>
+            <button class="minus" id="${carrito[item].id}-minus">-</button>
             </div>
-          <button class="btn-delete">Eliminar</button>
-            
-            <p>Subtotal : ${
-              Number(carrito[item].price) * carrito[item].quantity
+            <button class="btn-delete" id="${
+              carrito[item].id
+            }-delete">Eliminar</button>
+            <p id="${carrito[item].id}" class="subtotal">Subtotal : ${
+              nPrecio
             }</p>
             </li>
             `;
-  carritoLista.appendChild(newLi);
+    if (carritoLista) {
+      carritoLista.appendChild(newLi);
+    }
+    newLi.addEventListener("click", (e) => {
+      btnAccion(e);
+    });
+  }
 }
-// total.innerHTML = `$ ${totalProducto}`;
-function crearElementoCarrito() {}
-crearElementoCarrito();
+nuevoElemento();
+
+const btnAccion = (e) => {
+  const listItem = e.target.closest("li");
+  //sumar
+  if (e.target.classList.contains("mas")) {
+    const subtotal = listItem.querySelector(".subtotal")
+    const productId = listItem.id;
+    const cartItem = carrito[productId];
+    
+    cartItem.quantity++;
+    const quantityElement = listItem.querySelector(".quantity");
+    if (quantityElement) {
+      subtotal.textContent = `Subtotal : ${cartItem.price * cartItem.quantity}`;
+      quantityElement.textContent = cartItem.quantity;
+    }
+    actualizarTotalYCantidad();
+
+  }
+  //restar
+  if (e.target.classList.contains("minus")) {
+    const subtotal = listItem.querySelector(".subtotal")
+    const productId = listItem.id;
+    const cartItem = carrito[productId];
+    cartItem.quantity--;
+    const quantityElement = listItem.querySelector(".quantity");
+    if (quantityElement) {
+      subtotal.textContent = `Subtotal : ${cartItem.price * cartItem.quantity}`;
+      quantityElement.textContent = cartItem.quantity;
+    }
+    if (cartItem.quantity === 0) {
+      delete carrito[productId];
+      listItem.remove();
+    }
+
+    actualizarTotalYCantidad();
+  }
+  //eliminar
+  if (e.target.classList.contains("btn-delete")) {
+    const productId = listItem.id;
+    const cartItem = carrito[productId];
+    cartItem.quantity = 0;
+    listItem.remove();
+
+    actualizarTotalYCantidad();
+  }
+  e.stopPropagation();
+};
+function actualizarTotalYCantidad() {
+  const nCantidad = Object.values(carrito).reduce(
+    (acc, { quantity }) => acc + quantity,
+    0
+  );
+  const nPrecio = Object.values(carrito).reduce(
+    (acc, { quantity, price }) => acc + quantity * price,
+    0
+  );
+  if (total) {
+    total.innerHTML = `$ ${nPrecio}`;
+  }
+  if (cantidadProductos) {
+    cantidadProductos.innerHTML = nCantidad;
+  }
+}
+actualizarTotalYCantidad();
 export { agregarAlCarrito };

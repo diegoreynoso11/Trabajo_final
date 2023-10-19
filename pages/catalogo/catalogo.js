@@ -79,10 +79,10 @@ async function agregarElemento() {
     const cart = document.querySelectorAll(".cart");
     info.forEach((btn, index) => {
       btn.addEventListener("click", (e) => {
-        console.log("carrito", index, e.target.closest("li"));
+        console.log("info", index, e.target.closest("li"));
       });
     });
-    cart.forEach((btn, index) => {
+    cart.forEach((btn) => {
       btn.addEventListener("click", (e) => {
         var listItem = e.target.closest("li");
         agregarAlCarrito(listItem);
