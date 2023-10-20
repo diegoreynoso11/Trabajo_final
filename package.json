@@ -3,6 +3,7 @@
   "dependencies": {
     "js": "^0.1.0",
     "node": "^20.7.0",
+    "pdfkit": "^0.13.0",
     "requirejs": "^2.3.6",
     "serpapi": "^2.0.0"
   },

@@ -1,4 +1,5 @@
-//JSON.parse(localStorage.getItem("carrito")) ||
+
+
 let carrito = JSON.parse(localStorage.getItem("carrito")) || {};
 const total = document.getElementById("total");
 const cantidadProductos = document.getElementById("cantidadProductos");
@@ -19,6 +20,7 @@ function agregarAlCarrito(listItem) {
   carrito[cartItem.id] = { ...cartItem };
   localStorage.setItem("carrito", JSON.stringify(carrito));
 }
+console.log(carrito)
 function nuevoElemento() {
   for (let item in carrito) {
     const nPrecio = Number(carrito[item].price) * carrito[item].quantity;
@@ -31,8 +33,8 @@ function nuevoElemento() {
   <p>$ ${carrito[item].price} </p>
             <span>Cantidad : </span><p class="quantity">${carrito[item].quantity} </p>
             <div class="btn-sum-res">
-            <button class="mas" id="${carrito[item].id}-mas">+</button>
-            <button class="minus" id="${carrito[item].id}-minus">-</button>
+            <button class="mas" id="${carrito[item].id}-mas"><img class="cart-icon" src="../../statics/icons/cart-plus.svg" alt=""></button>
+            <button class="minus" id="${carrito[item].id}-minus"><img class="cart-icon" src="../../statics/icons/cart-minus.svg" alt=""></button>
             </div>
             <button class="btn-delete" id="${carrito[item].id}-delete">Eliminar</button>
             <p id="${carrito[item].id}" class="subtotal">Subtotal : ${nPrecio}</p>
