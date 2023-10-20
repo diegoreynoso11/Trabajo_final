@@ -31,10 +31,12 @@
 .navDiv input {
   width: 350px;
   border: 1px solid var(--color-secondary);
-  border-start-start-radius: 13px;
-  border-end-start-radius: 13px;
+  border-radius: 13px;
   margin: 0px;
   text-align: center;
+}
+.navDiv input:active{
+  border: 1px solid var(--color-secondary);
 }
 .navDiv button {
   margin: -5px;

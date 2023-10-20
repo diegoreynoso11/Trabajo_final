@@ -1,6 +1,6 @@
 import { agregarAlCarrito } from "../carrito/carrito.js";
 
-const h1ProductosCatalogo = document.querySelector(".h1-productos-catalogo")
+const h1ProductosCatalogo = document.querySelector(".h1-productos-catalogo");
 async function agregarElemento() {
   const catalogoLista = document.querySelector("#catalogo");
   try {
@@ -12,13 +12,12 @@ async function agregarElemento() {
     buscador.addEventListener("input", (e) => {
       clearTimeout(timeout);
       timeout = setTimeout(async () => {
-        
         catalogoLista.innerHTML = "";
         if (e.target.value.trim() !== "") {
           const nwbusqueda = dataBusqueda.filter((item) =>
-          item.name.toLowerCase().includes(e.target.value.toLowerCase())
+            item.name.toLowerCase().includes(e.target.value.toLowerCase())
           );
-          console.log(nwbusqueda.length)
+          console.log(nwbusqueda.length);
           if (nwbusqueda.length === 0) {
             h1ProductosCatalogo.innerHTML = "Ningun producto encontrado";
           } else {
@@ -28,8 +27,8 @@ async function agregarElemento() {
             const element = nwbusqueda[i];
             const res = await fetch(
               `https://api.mercadolibre.com/sites/MLA/search?q=${element.name}`
-              );
-              const dataRes = await res.json();
+            );
+            const dataRes = await res.json();
             const newLi = document.createElement("li");
             const newItem = dataRes.results[0];
             newLi.innerHTML = `<li id="${newItem.id}"class=li-catalogo>
@@ -48,7 +47,7 @@ async function agregarElemento() {
             catalogoLista.appendChild(newLi);
           }
         }
-      }, 1000); 
+      }, 1000);
     });
     for (let i = 0; i < 6; i++) {
       const response = await fetch(
@@ -75,18 +74,13 @@ async function agregarElemento() {
           `;
       catalogoLista.appendChild(newLi);
     }
-    const info = document.querySelectorAll(".info");
-    const cart = document.querySelectorAll(".cart");
-    info.forEach((btn, index) => {
-      btn.addEventListener("click", (e) => {
-        console.log("info", index, e.target.closest("li"));
-      });
-    });
-    cart.forEach((btn) => {
-      btn.addEventListener("click", (e) => {
+    catalogoLista.addEventListener("click", (e) => {
+      if (e.target.closest(".info")) {
+        console.log("info", e.target.closest("li"));
+      } else if (e.target.closest(".cart")) {
         var listItem = e.target.closest("li");
         agregarAlCarrito(listItem);
-      });
+      }
     });
   } catch (error) {
     console.error(error);
