@@ -1,6 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+
 :root {
   --color-primary: #a8d4b8;
   --color-secondary: #576c68;
@@ -128,4 +126,14 @@ h1 {
   background-color: var(--color-primary);
   color: var(--color-secondary);
   filter: drop-shadow(0px 0px 1em var(--color-primary));
+}
+.img-back{
+  width: 40px;
+  height: 40px;
+}
+@media (max-width: 768px) {
+  .section-carrito{
+    display: flex;
+    flex-direction: column-reverse;
+  }
 }

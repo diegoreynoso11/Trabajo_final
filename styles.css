@@ -86,4 +86,18 @@ nav a:hover {
 .about-p {
   width: 500px;
 }
+@media (max-width: 768px) {
+  .nav {
+    flex-direction: column;
+  }
 
+  .navDiv {
+    flex-direction: row;
+  }
+ .about{
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+ }
+}

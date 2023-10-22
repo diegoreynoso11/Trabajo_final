@@ -1,6 +1,11 @@
-import { agregarAlCarrito } from "../carrito/carrito.js";
+import {
+  agregarAlCarrito,
+  carrito,
+  actualizarTotalYCantidad,
+} from "../carrito/carrito.js";
 
 const h1ProductosCatalogo = document.querySelector(".h1-productos-catalogo");
+const totCarrito = document.querySelector("#tot-carrito");
 async function agregarElemento() {
   const catalogoLista = document.querySelector("#catalogo");
   try {
@@ -80,6 +85,9 @@ async function agregarElemento() {
       } else if (e.target.closest(".cart")) {
         var listItem = e.target.closest("li");
         agregarAlCarrito(listItem);
+        let cantidad = actualizarTotalYCantidad();
+        totCarrito.innerHTML = ` ${cantidad}`;
+        localStorage.setItem('cantidad', cantidad);
       }
     });
   } catch (error) {

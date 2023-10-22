@@ -1,11 +1,10 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+
 :root {
   --color-primary: #a8d4b8;
   --color-secondary: #576c68;
   /* var(color-primary) */
 }
+
 * {
   background-color: rgb(255, 254, 254);
   color: #576c68;
@@ -120,4 +119,17 @@ nav a:hover {
   .li-img-catalogo {
     width: 100px;
     height: 100px;
+  }
+  @media (max-width: 768px) {
+    .nav {
+      flex-direction: column;
+    }
+  
+    .navDiv {
+      flex-direction: column;
+      gap: 5px;
+    }
+    .h1-productos-catalogo{
+      padding-top: 20px ;
+    }
   }

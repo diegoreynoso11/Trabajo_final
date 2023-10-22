@@ -5,27 +5,33 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="carrito.css" />
     <script type="module" src="../carrito/carrito.js"></script>
-    <script type="module" src="./pdf.js"></script>
-    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.5.3/jspdf.debug.js"></script>
+    <script src="https://unpkg.com/jspdf-autotable@3.7.0/dist/jspdf.plugin.autotable.js"></script>
 
     <title>Carrito</title>
   </head>
   <body>
-    
     <nav class="nav-carrito">
-        <a href="../catalogo/catalogo.html">Volver</a>
-        <h1 class="carrito-h1">CARRITO</h1>
+      <a href="../catalogo/catalogo.html"><img class="img-back" src="/statics/icons/back.svg" alt="Volver" title="Volver"></a>
+      <h1 class="carrito-h1">CARRITO</h1>
     </nav>
     <hr />
     <section class="section-carrito">
       <ul id="carrito"></ul>
       <div class="total-carrito">
-          <h2 class="total-h2">Total</h2>
-          <span id="total"></span>
-          <h2 class="cantidadProductos-h2">Cantidad de productos</h2>
-          <span id="cantidadProductos"></span>
-        <a aria-label="Chat on WhatsApp" class="chat-whatsapp" href="https://wa.me/+549113388525546">
-        Enviar pedido</a>
+        <h2 class="total-h2">Total</h2>
+        <span id="total"></span>
+        <h2 class="cantidadProductos-h2">Cantidad de productos</h2>
+        <span id="cantidadProductos"></span>
+        <a
+          id="enviar-pedido"
+          aria-label="Chat on WhatsApp"
+          class="chat-whatsapp"
+          href="https://wa.me/+5493388455333"
+          target="_blank"
+        >
+          Enviar pedido</a
+        >
       </div>
     </section>
   </body>

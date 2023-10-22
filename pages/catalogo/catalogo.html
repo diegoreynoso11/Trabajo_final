@@ -5,23 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="catalogo.css">
     <script type="module" src="./catalogo.js"></script>
-    <script src="https://cdn.tailwindcss.com"></script>
 
     <title>Catalogo</title>
 </head>
 <body>
     <header>
-        <nav class="nav sticky shadow-md">
+        <nav class="nav">
           <a href="/index.html">
             <img class="logo" src="/statics/logo/AMARANTO.png" alt="Amaranto Logo" />
           </a>
           <div class="navDiv">
                 <input type="text" placeholder="Palluzzi,Nueces,Azucar organica..." id="buscador">
-            <a href="/pages/carrito/carrito.html">Carrito</a>
-            <div >
-                <a class="btn-usuario" href="">Crear cuenta</a>
-                <a class="btn-usuario" href="#usuario">Ingresar</a>
-            </div>
+                <a href="/pages/carrito/carrito.html">Carrito<span id="tot-carrito"></span></a>
           </div>
         </nav>
       </header>

@@ -1,11 +1,10 @@
-
-
 let carrito = JSON.parse(localStorage.getItem("carrito")) || {};
 const total = document.getElementById("total");
 const cantidadProductos = document.getElementById("cantidadProductos");
 const totalTitulo = document.querySelector(".total-h2");
 const cantidadProductosTitulo = document.querySelector(".cantidadProductos-h2");
-const botonPagar = document.querySelector(".boton-pagar")
+const botonPagar = document.querySelector(".boton-pagar");
+const enviarPedido = document.querySelector("#enviar-pedido");
 function agregarAlCarrito(listItem) {
   var cartItem = {
     id: listItem.id,
@@ -20,7 +19,6 @@ function agregarAlCarrito(listItem) {
   carrito[cartItem.id] = { ...cartItem };
   localStorage.setItem("carrito", JSON.stringify(carrito));
 }
-console.log(carrito)
 function nuevoElemento() {
   for (let item in carrito) {
     const nPrecio = Number(carrito[item].price) * carrito[item].quantity;
@@ -113,17 +111,63 @@ function actualizarTotalYCantidad() {
       cantidadProductos.innerHTML = "";
       totalTitulo.innerHTML = "";
       cantidadProductosTitulo.innerHTML = "";
-      botonPagar.style.visibility = "hidden"
+      botonPagar.style.visibility = "hidden";
     }
   } else {
     if (total) {
-      total.innerHTML = `$ ${nPrecio}`;
+      total.innerHTML = `$ ${Math.round(nPrecio)}`;
     }
 
     if (cantidadProductos) {
       cantidadProductos.innerHTML = nCantidad;
     }
   }
+  return nCantidad
+}
+if (enviarPedido) {
+  enviarPedido.addEventListener("click", () => {
+    var doc = new jsPDF();
+    var totalPedido = 0;
+    var y = 10; 
+    var cantidadProductos = 0
+    let fecha = new Date();
+    let dia = fecha.getDate();
+    let mes = fecha.getMonth() + 1;
+    let año = fecha.getFullYear();
+    
+    if (dia < 10) dia = '0' + dia;
+    if (mes < 10) mes = '0' + mes;
+    
+    let nombreArchivo = `pedido_${dia}-${mes}-${año}.pdf`;
+    Object.values(carrito).forEach((item, index) => {
+      var totalProducto = Number(item.price) * item.quantity;
+      cantidadProductos += item.quantity
+      totalPedido += totalProducto;
+
+      if (y > 250) { 
+        doc.addPage();
+        y = 10; 
+      }
+
+      doc.text("Producto: " + item.title, 10, y);
+      y += 10;
+      doc.text("Precio: $" + item.price, 10, y);
+      y += 10;
+      doc.text("Cantidad: " + item.quantity, 10, y);
+      y += 10;
+      doc.text("Total: $" + totalProducto, 10, y);
+      y += 20; 
+    });
+
+    if (y > 250) { 
+      doc.addPage();
+      y = 10; 
+    }
+    doc.text("Cantidad de productos: " + cantidadProductos, 10, y)
+    doc.text("Total del pedido: $" + Math.round(totalPedido), 10, y + 10);
+    
+    doc.save(nombreArchivo);
+  });
 }
 actualizarTotalYCantidad();
-export { agregarAlCarrito };
+export { agregarAlCarrito, carrito, actualizarTotalYCantidad };
