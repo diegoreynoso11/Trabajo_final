@@ -22,7 +22,6 @@ async function agregarElemento() {
           const nwbusqueda = dataBusqueda.filter((item) =>
             item.name.toLowerCase().includes(e.target.value.toLowerCase())
           );
-          console.log(nwbusqueda.length);
           if (nwbusqueda.length === 0) {
             h1ProductosCatalogo.innerHTML = "Ningun producto encontrado";
           } else {
@@ -44,7 +43,7 @@ async function agregarElemento() {
         </div>
         <img class="li-img-catalogo" src="${newItem.thumbnail}" title="${newItem.title}" alt="${newItem.title}">
         <div class="div-info-catalogo">
-        <button  class="button-icon info"><img src="../../statics/icons/info.svg" title="Informacion" alt="Informacion" class="icon-img"></button>
+        <button disabled class="button-icon info"><img src="../../statics/icons/info.svg" title="Funcionalidad en proceso.." alt="Informacion" class="icon-img"></button>
         <button  class="cart button-icon"><img src="../../statics/icons/cart.svg" title="Agregar al carrito" alt="CarritoSvg" class="icon-img"></button>
         </div>
         </li>
@@ -62,7 +61,6 @@ async function agregarElemento() {
       );
       const dataResponse = await response.json();
       const newItem = dataResponse.results[0];
-      console.log(newItem);
       const newLi = document.createElement("li");
       newLi.innerHTML = `<li id="${newItem.id}"class=li-catalogo>
           <h2 class="h1-catalogo">${newItem.title}</h2>
@@ -72,7 +70,7 @@ async function agregarElemento() {
           </div>
           <img class="li-img-catalogo" src="${newItem.thumbnail}" title="${newItem.title}" alt="${newItem.title}">
           <div class="div-info-catalogo">
-          <button  class="button-icon info"><img src="../../statics/icons/info.svg" title="Informacion" alt="Informacion" class="icon-img"></button>
+          <button disabled class="button-icon info"><img src="../../statics/icons/info.svg" title="Funcionalidad en proceso" alt="Informacion" class="icon-img"></button>
           <button  class="cart button-icon"><img src="../../statics/icons/cart.svg" title="Agregar al carrito" alt="CarritoSvg" class="icon-img"></button>
           </div>
           </li>
@@ -80,14 +78,14 @@ async function agregarElemento() {
       catalogoLista.appendChild(newLi);
     }
     catalogoLista.addEventListener("click", (e) => {
+      //funcionalidad en proceso
       if (e.target.closest(".info")) {
-        console.log("info", e.target.closest("li"));
       } else if (e.target.closest(".cart")) {
         var listItem = e.target.closest("li");
         agregarAlCarrito(listItem);
         let cantidad = actualizarTotalYCantidad();
-        totCarrito.innerHTML = ` ${cantidad}`;
-        localStorage.setItem('cantidad', cantidad);
+        totCarrito.innerHTML = `${cantidad}`;
+        totCarrito.style.visibility = "visible"
       }
     });
   } catch (error) {
