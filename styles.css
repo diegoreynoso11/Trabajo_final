@@ -1,6 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+
 :root {
   --color-primary: #a8d4b8;
   --color-secondary: #576c68;
@@ -90,11 +88,20 @@ nav a:hover {
   .nav {
     flex-direction: column;
   }
-
+  .about-h1{
+    padding: 0px;
+    background-color: #00000000;
+    margin-top: 20px;
+  }
   .navDiv {
+    z-index: 999;
+    gap: 150px;
+    justify-content: space-between;
     flex-direction: row;
   }
  .about{
+  padding-top: 0px;
+  margin: 0px;
   flex-direction: column;
   justify-content: center;
   align-items: center;
