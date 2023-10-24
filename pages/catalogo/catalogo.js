@@ -6,6 +6,10 @@ import {
 
 const h1ProductosCatalogo = document.querySelector(".h1-productos-catalogo");
 const totCarrito = document.querySelector("#tot-carrito");
+const table = document.querySelector(".table-catalogo")
+const modal = document.getElementById("modal")
+const cerrarModal = document.querySelector(".cerrar-modal")
+const blurElement = document.querySelector(".blur")
 async function agregarElemento() {
   const catalogoLista = document.querySelector("#catalogo");
   try {
@@ -43,7 +47,7 @@ async function agregarElemento() {
         </div>
         <img class="li-img-catalogo" src="${newItem.thumbnail}" title="${newItem.title}" alt="${newItem.title}">
         <div class="div-info-catalogo">
-        <button disabled class="button-icon info"><img src="../../statics/icons/info.svg" title="Funcionalidad en proceso.." alt="Informacion" class="icon-img"></button>
+        <button class="button-icon info"><img src="../../statics/icons/info.svg" title="Funcionalidad en proceso.." alt="Informacion" class="icon-img"></button>
         <button  class="cart button-icon"><img src="../../statics/icons/cart.svg" title="Agregar al carrito" alt="CarritoSvg" class="icon-img"></button>
         </div>
         </li>
@@ -70,8 +74,8 @@ async function agregarElemento() {
           </div>
           <img class="li-img-catalogo" src="${newItem.thumbnail}" title="${newItem.title}" alt="${newItem.title}">
           <div class="div-info-catalogo">
-          <button disabled class="button-icon info"><img src="../../statics/icons/info.svg" title="Funcionalidad en proceso" alt="Informacion" class="icon-img"></button>
-          <button  class="cart button-icon"><img src="../../statics/icons/cart.svg" title="Agregar al carrito" alt="CarritoSvg" class="icon-img"></button>
+          <button class="button-icon info"><img src="../../statics/icons/info.svg" title="Funcionalidad en proceso" alt="Informacion" class="icon-img"></button>
+          <button class="cart button-icon"><img src="../../statics/icons/cart.svg" title="Agregar al carrito" alt="CarritoSvg" class="icon-img"></button>
           </div>
           </li>
           `;
@@ -80,16 +84,46 @@ async function agregarElemento() {
     catalogoLista.addEventListener("click", (e) => {
       //funcionalidad en proceso
       if (e.target.closest(".info")) {
+        blurElement.style.visibility = "visible"
+        modal.style.opacity = "1"
+        modal.style.visibility = "visible"
+        var infoItem = e.target.closest("li");
+        obtenerDescripcion(infoItem.id)
       } else if (e.target.closest(".cart")) {
         var listItem = e.target.closest("li");
         agregarAlCarrito(listItem);
         let cantidad = actualizarTotalYCantidad();
         totCarrito.innerHTML = `${cantidad}`;
-        totCarrito.style.visibility = "visible"
+        totCarrito.style.visibility = "visible";
       }
     });
   } catch (error) {
     console.error(error);
   }
 }
+async function obtenerDescripcion(id) {
+  const response = await fetch(
+    `https://api.mercadolibre.com/items/${id}?attributes=attributes&include_internal_attributes=true`
+  );
+  const dataResponse = await response.json();
+  table.innerHTML = "";
+  dataResponse.attributes.map((attribute) => {
+    const tr = document.createElement('tr')
+    const tdName = document.createElement('td');
+    const tdValue = document.createElement('td');
+    tdName.textContent = attribute.name;
+    tdValue.textContent = attribute.value_name;
+    tr.append(tdName, tdValue)
+    table.append(tr)
+  })
+    
+  
+}
+cerrarModal.addEventListener("click", () => {
+  modal.style.opacity = "0"
+  modal.style.visibility = "hidden";
+  blurElement.style.visibility = "hidden"
+
+
+})
 agregarElemento();
